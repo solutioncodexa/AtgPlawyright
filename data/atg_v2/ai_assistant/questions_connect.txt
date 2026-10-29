@@ -1,0 +1,4 @@
+List current tender notices I can apply to.
+Give me the details of a specific ATG-Connect tender by its id.
+Show me investment opportunities and the providers behind them.
+Show me trade-finance opportunities and finance providers.

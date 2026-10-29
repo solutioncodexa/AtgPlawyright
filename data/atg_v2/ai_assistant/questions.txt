@@ -1,0 +1,38 @@
+How many ATG packages are listed in Package Management?
+What ATG packages are currently available?
+What package types can I filter by in Package Management?
+What package statuses can I filter by?
+Which ATG package is Inactive?
+Which platforms are listed under Features per platform on every package card?
+How much does PACK112002 cost and how many member slots does it include?
+What is the Meriem package and what does it cost?
+How much is Et el voluptas veni per user?
+How much is Consectetur sed repr and when was it updated?
+What is Test 21/10 and how many member slots and upgrades does it have?
+How much does Pckage Special cost and how many member slots does it include?
+What type is FI Finacial institution and what does it cost?
+How many member slots, e-vouchers and upgrades does the Financial Institution package have?
+How much is the fretee package and how many upgrades does it include?
+How much is the rrr package?
+What is special about the asd package e-vouchers?
+What is test for addons and what does it cost?
+How much does the hamza package cost?
+Is the free publication package actually free, and what does it cost?
+Does SPECIAL PACKAGE cost anything?
+How much does the TEST package cost?
+How much is PACKE CASE MANSA?
+How much is ATG for corporates and how many member slots does it include?
+What is ATG BASIC and is it free?
+Are there two ATG BASIC packages, and how do they differ?
+How much is CORPORATE SPONSOR, who is it for, and how many e-vouchers does it include?
+What is Enterprise 22 and how much does it cost?
+Is BASIC a free package and how many member slots does it have?
+Which package has the highest price per user?
+Which ATG packages are Free?
+Which packages are typed Financial institutions?
+Which packages are typed Corporates?
+Which package has the most e-vouchers?
+Which package has the most member slots?
+What is the description or code shown on PACK112002?
+What is my current ATG subscription and which add-ons do I have?
+What package add-ons exist for TRADAR, MANSA and ATG-Connect?

@@ -1,0 +1,2223 @@
+
+================================================================================
+PAGE: Tender Opportunities — list & details (staging-atg.peaqock.com)
+================================================================================
+Reference path: workspace/tender/tender-opportunities (list) and …/tender-opportunities-details (detail).
+Questions focus on submission status (open vs closed), closing date, country, and Tender Details fields (Tender / Project Name, Project Sector, Project Currency, Minimum company requirements, Conditions and Documents Required, Additional Tender Information, Institution Type, amount range). List cards and detail tables may show different closing dates in staging—answers note both when they differ.
+
+--- List view — open tenders (first capture, 26 results) ---
+
+Q: Is the tender for Susan Frye at Sidi hrazem open or closed?
+EXPECTED ANSWER: Open for Submission (green badge on the list card).
+
+Q: What is the closing date for Susan Frye (reference TO-97518224781185) on the tender opportunities list?
+EXPECTED ANSWER: 2026-06-28.
+
+Q: Which country is shown for the Susan Frye tender at Sidi hrazem on the list?
+EXPECTED ANSWER: Morocco (Moroccan flag and country label on the card).
+
+Q: Is the Zenia Fernandez tender at hamza2703 open or closed on the list?
+EXPECTED ANSWER: Open for Submission.
+
+Q: What closing date appears for Zenia Fernandez (TO-97491221963978) on the list?
+EXPECTED ANSWER: 2026-06-18.
+
+Q: Which country is displayed for Zenia Fernandez on the tender opportunities list?
+EXPECTED ANSWER: The country flag did not load in the capture (placeholder “country-flag”); country name was not shown on the card.
+
+Q: Is Heather Conrad’s tender at Peaqock open or closed on the list?
+EXPECTED ANSWER: Open for Submission.
+
+Q: What is the list closing date for Heather Conrad (TO-97467503892421)?
+EXPECTED ANSWER: 2026-07-01.
+
+Q: Which country is listed for Heather Conrad at Peaqock on the tender list?
+EXPECTED ANSWER: Morocco (flag and label on the card).
+
+--- List view — mix of open and closed (second capture) ---
+
+Q: Is the Thomas Warren tender at G U D HOLDINGS (PTY) LTD open or closed?
+EXPECTED ANSWER: Open for Submission.
+
+Q: What closing date is shown for Thomas Warren (TO-97439949526416) on the list?
+EXPECTED ANSWER: 2026-06-29.
+
+Q: Which country is associated with Thomas Warren’s tender on the list?
+EXPECTED ANSWER: South Africa.
+
+Q: Is the Quinlan Harrison tender at W- Retail X10E open or closed on the list?
+EXPECTED ANSWER: Open for Submission.
+
+Q: What is the closing date for Quinlan Harrison (TO-97410624420640) on the list?
+EXPECTED ANSWER: 2026-06-30.
+
+Q: Which country is shown for Quinlan Harrison on the tender opportunities list?
+EXPECTED ANSWER: Madagascar.
+
+Q: Is the Wanda Head tender at Lagos company open or closed?
+EXPECTED ANSWER: Closed (red badge with lock icon).
+
+Q: What closing date appears for Wanda Head (TO-106136025434552) on the list?
+EXPECTED ANSWER: 2026-05-30.
+
+Q: Which country is listed for Wanda Head at Lagos company?
+EXPECTED ANSWER: Nigeria.
+
+Q: Is the Xantha Alston tender at TESTM Retail Holdings APFR2 open or closed?
+EXPECTED ANSWER: Closed.
+
+Q: What is the closing date for Xantha Alston (TO-105959357501536) on the list?
+EXPECTED ANSWER: 2026-05-29.
+
+Q: Which country is shown for Xantha Alston’s tender?
+EXPECTED ANSWER: Equatorial Guinea.
+
+--- List view — closed tenders (third capture) ---
+
+Q: Is the Lilah Goff tender at Technology Holdings O7MRW open or closed?
+EXPECTED ANSWER: Closed.
+
+Q: What closing date is shown for Lilah Goff (TO-105468162030353)?
+EXPECTED ANSWER: 2026-05-26.
+
+Q: Which country is listed for Lilah Goff’s tender?
+EXPECTED ANSWER: Tanzania, United Republic of.
+
+Q: Is the Sara Michael tender at atgdija open or closed?
+EXPECTED ANSWER: Closed.
+
+Q: What is the closing date for Sara Michael (TO-10767110534873)?
+EXPECTED ANSWER: 2026-04-29.
+
+Q: Which country is shown for Sara Michael’s tender at atgdija?
+EXPECTED ANSWER: Morocco.
+
+Q: Is the Sarah Curry tender at atgdija open or closed?
+EXPECTED ANSWER: Closed.
+
+Q: What closing date appears for Sarah Curry (TO-495323611168)?
+EXPECTED ANSWER: 2026-04-28.
+
+Q: Which country is listed for Sarah Curry’s tender?
+EXPECTED ANSWER: Morocco.
+
+Q: Is the Leila Parrish tender at Tropical Organic Harvests Ltd open or closed?
+EXPECTED ANSWER: Closed.
+
+Q: What is the closing date for Leila Parrish (TO-25419386629459)?
+EXPECTED ANSWER: 2026-05-07.
+
+Q: Which country is associated with Leila Parrish’s tender?
+EXPECTED ANSWER: Uganda.
+
+Q: Is the ROOFL-9 tender open or closed on the list?
+EXPECTED ANSWER: Closed (badge visible on the partial card at the bottom of the capture).
+
+Q: How many tender results were indicated on the first list screenshot?
+EXPECTED ANSWER: 26 Results (counter at the top of the list).
+
+--- Detail view — open tenders ---
+
+Q: On the tender details page for Sidi hrazem (Susan Frye), is the project open or closed?
+EXPECTED ANSWER: Open for Submission (badge) and OPEN_FOR_SUBMISSION in the Tender Details table.
+
+Q: What closing date and time appear under “Opening and closing hours” for Susan Frye on the details page?
+EXPECTED ANSWER: End date 2024-05-28 23:59 (list card showed 2026-06-28—staging dates may differ between list and detail).
+
+Q: Which country is indicated on the Susan Frye / Sidi hrazem details page?
+EXPECTED ANSWER: Morocco (Moroccan flag in the header).
+
+Q: On the details page for hamza2703 (Zenia Fernandez), is the tender open or closed?
+EXPECTED ANSWER: Open for Submission / OPEN_FOR_SUBMISSION.
+
+Q: What closing date and time are shown for Zenia Fernandez under opening and closing hours?
+EXPECTED ANSWER: 2025-05-18 23:55.
+
+Q: Which country or location is shown for Zenia Fernandez on the details page?
+EXPECTED ANSWER: Country flag placeholder (“country flag”); project currency ANG (Netherlands Antillean Guilder) is listed in the table—country flag was not resolved in the capture.
+
+Q: On the Peaqock details page for Heather Conrad, is the project open or closed?
+EXPECTED ANSWER: Open for Submission / OPEN_FOR_SUBMISSION.
+
+Q: What closing date and time appear for Heather Conrad on the details page?
+EXPECTED ANSWER: 2024-07-01 22:59 (shown as “--- 2024-07-01 22:59” under Opening and closing hours).
+
+Q: Which country is associated with Heather Conrad’s tender on the details page?
+EXPECTED ANSWER: Albania (Albanian flag in header; project currency ALL — Albanian Lek). Note: the list card showed Morocco—detail view uses Albania in this capture.
+
+Q: On the G U D HOLDINGS (PTY) LTD details page for Thomas Warren, is the tender open or closed?
+EXPECTED ANSWER: Open for Submission / OPEN_FOR_SUBMISSION.
+
+Q: What closing date and time are listed for Thomas Warren on the details page?
+EXPECTED ANSWER: 2028-06-29 23:59.
+
+Q: Which country is this Thomas Warren tender for on the details page?
+EXPECTED ANSWER: South Africa (South African flag; description mentions a South African company in Durban).
+
+Q: On the W- Retail X10E details page for Quinlan Harrison, is the project open or closed?
+EXPECTED ANSWER: Open for Submission / OPEN_FOR_SUBMISSION.
+
+Q: What closing date and time appear for Quinlan Harrison under opening and closing hours?
+EXPECTED ANSWER: 2023-06-30 23:59 in one capture; another detail view for the same institution showed 2024-05-30 23:59—use the live detail screen for the authoritative value.
+
+Q: Which country is the Quinlan Harrison / W- Retail X10E tender associated with?
+EXPECTED ANSWER: Madagascar (Madagascar flag and description text referencing Madagascar).
+
+--- Detail view — closed tender ---
+
+Q: On the Lagos company details page for Wanda Head, is the tender open or closed?
+EXPECTED ANSWER: Closed (red “Closed” badge and CLOSED in Project Status).
+
+Q: What closing date and time are shown for Wanda Head on the details page?
+EXPECTED ANSWER: 2024-05-30 23:59 (under Opening and closing hours; list showed 2026-05-30).
+
+Q: Which country is the Wanda Head tender in on the details page?
+EXPECTED ANSWER: Nigeria (Nigerian flag in the header).
+
+--- Tender Details table — Project Name, Sector, Currency, requirements, conditions ---
+
+Q: What is the Tender / Project Name for the Sidi hrazem details page?
+EXPECTED ANSWER: Susan Frye (institution header title is Sidi hrazem).
+
+Q: What Project Sector is listed for Susan Frye on the Sidi hrazem tender details?
+EXPECTED ANSWER: Manufacturing.
+
+Q: What Project Currency is shown for Susan Frye’s tender?
+EXPECTED ANSWER: AOA (Angolan Kwanza).
+
+Q: What are the Minimum company requirements for Susan Frye’s tender?
+EXPECTED ANSWER: Voluptate cupiditate.
+
+Q: What does Conditions and Documents Required say for Susan Frye?
+EXPECTED ANSWER: Praesent consetetu.
+
+Q: What Additional Tender Information is listed for Susan Frye?
+EXPECTED ANSWER: Praesentium odio dig.
+
+Q: What Institution Type is shown on the Susan Frye / Sidi hrazem details page?
+EXPECTED ANSWER: SME.
+
+Q: What is the Tender / Project Name on the hamza2703 details page?
+EXPECTED ANSWER: Zenia Fernandez.
+
+Q: What Project Sector is listed for Zenia Fernandez?
+EXPECTED ANSWER: Special Economic Zones/Industrial Parks.
+
+Q: What Project Currency appears for Zenia Fernandez’s tender?
+EXPECTED ANSWER: ANG (Netherlands Antillean Guilder).
+
+Q: What are the Minimum company requirements for Zenia Fernandez?
+EXPECTED ANSWER: Voluptate quae dicit.
+
+Q: What does Conditions and Documents Required say for Zenia Fernandez?
+EXPECTED ANSWER: Blanditiis tempore.
+
+Q: What Additional Tender Information is listed for Zenia Fernandez?
+EXPECTED ANSWER: Veniam voluptate ne.
+
+Q: What Institution Type is shown for hamza2703 (Zenia Fernandez)?
+EXPECTED ANSWER: CORPORATE.
+
+Q: What is the Tender / Project Name on the Peaqock details page?
+EXPECTED ANSWER: Heather Conrad.
+
+Q: What Project Sector is listed for Heather Conrad’s tender?
+EXPECTED ANSWER: Housing.
+
+Q: What Project Currency is shown for Heather Conrad?
+EXPECTED ANSWER: ALL (Albanian Lek).
+
+Q: What are the Minimum company requirements for Heather Conrad?
+EXPECTED ANSWER: Temporibus eu evenie.
+
+Q: What does Conditions and Documents Required say for Heather Conrad?
+EXPECTED ANSWER: Molit fugit eligendi.
+
+Q: What Additional Tender Information is listed for Heather Conrad?
+EXPECTED ANSWER: Dolores et deserunt.
+
+Q: What is the Tender / Project Name on the G U D HOLDINGS (PTY) LTD details page?
+EXPECTED ANSWER: Thomas Warren.
+
+Q: What Project Sector is listed for Thomas Warren’s tender?
+EXPECTED ANSWER: Housing.
+
+Q: What Project Currency appears for Thomas Warren’s tender?
+EXPECTED ANSWER: ARS (Argentine Peso).
+
+Q: What Institution Type is shown for G U D HOLDINGS (Thomas Warren)?
+EXPECTED ANSWER: SME.
+
+Q: What is the Tender / Project Name on the W- Retail X10E details page?
+EXPECTED ANSWER: Quinlan Harrison (page header title is W- Retail X10E).
+
+Q: What Project Sector is listed for Quinlan Harrison’s tender?
+EXPECTED ANSWER: Water.
+
+Q: What Project Currency is shown for Quinlan Harrison?
+EXPECTED ANSWER: ALL (Albanian Lek).
+
+Q: What are the Minimum company requirements for Quinlan Harrison?
+EXPECTED ANSWER: Officia illum nulla l (one capture showed “Officia Nam nulla l”—confirm on live detail).
+
+Q: What does Conditions and Documents Required say for Quinlan Harrison?
+EXPECTED ANSWER: Ad non pariatur Nob.
+
+Q: What Additional Tender Information is listed for Quinlan Harrison?
+EXPECTED ANSWER: Dolores itaque et a (one capture showed “Dolores itaque et si”—staging text may vary).
+
+Q: What Institution Type is shown for W- Retail X10E (Quinlan Harrison)?
+EXPECTED ANSWER: Corporate.
+
+Q: What is the Tender / Project Name on the Lagos company details page?
+EXPECTED ANSWER: Wanda Head.
+
+Q: What Project Sector is listed in the Tender Details table for Wanda Head?
+EXPECTED ANSWER: Transport (the Description section elsewhere mentioned Agriculture, forestry and fishing—table sector is Transport in the capture).
+
+Q: What Project Currency is shown for Wanda Head’s tender?
+EXPECTED ANSWER: ARS (Argentine Peso).
+
+Q: What are the Minimum company requirements for Wanda Head?
+EXPECTED ANSWER: Temporibus blanditiis.
+
+Q: What does Conditions and Documents Required say for Wanda Head?
+EXPECTED ANSWER: Reprehenderit ad minim.
+
+Q: What Additional Tender Information is listed for Wanda Head?
+EXPECTED ANSWER: Laboris nisi ipsum do.
+
+Q: What Institution Type is shown for Lagos company (Wanda Head)?
+EXPECTED ANSWER: SME.
+
+Q: What amount range is shown for Susan Frye’s tender in the details table?
+EXPECTED ANSWER: 0 ADA MIN - 0 ADA MAX (label uses ADA in the amount row; Project Currency is AOA).
+
+Q: What amount range is shown for Heather Conrad’s tender?
+EXPECTED ANSWER: 0 ALL MIN - 0 ALL MAX.
+
+Q: What amount range is shown for Quinlan Harrison’s tender?
+EXPECTED ANSWER: 0 ALL MIN - 0 ALL MAX.
+
+Q: What amount range is shown for Wanda Head’s tender?
+EXPECTED ANSWER: 0 ARS MIN - 0 ARS MAX.
+
+--- Cross-tender comparisons — sector, currency, requirements, conditions ---
+
+Q: Which documented detail tenders list Housing as the Project Sector?
+EXPECTED ANSWER: Two—Heather Conrad and Thomas Warren.
+
+Q: Which documented detail tender lists Water as the Project Sector?
+EXPECTED ANSWER: Quinlan Harrison (W- Retail X10E).
+
+Q: Which documented detail tender lists Manufacturing as the Project Sector?
+EXPECTED ANSWER: Susan Frye (Sidi hrazem).
+
+Q: Which documented detail tenders use ALL (Albanian Lek) as Project Currency?
+EXPECTED ANSWER: Heather Conrad and Quinlan Harrison.
+
+Q: Which documented detail tenders use ARS (Argentine Peso) as Project Currency?
+EXPECTED ANSWER: Thomas Warren and Wanda Head.
+
+Q: Do Heather Conrad and Quinlan Harrison share the same Project Currency in the reference details?
+EXPECTED ANSWER: Yes—both list ALL (Albanian Lek).
+
+Q: Do Thomas Warren and Wanda Head share the same Project Currency in the reference details?
+EXPECTED ANSWER: Yes—both list ARS (Argentine Peso).
+
+Q: Which tender uses AOA (Angolan Kwanza) as Project Currency?
+EXPECTED ANSWER: Susan Frye on the Sidi hrazem details page.
+
+Q: Which tender uses ANG (Netherlands Antillean Guilder) as Project Currency?
+EXPECTED ANSWER: Zenia Fernandez on the hamza2703 details page.
+
+Q: Which open detail tender has Manufacturing sector versus Housing?
+EXPECTED ANSWER: Susan Frye is Manufacturing; Heather Conrad and Thomas Warren are Housing.
+
+Q: Which closed detail tender in the reference set has Transport as Project Sector?
+EXPECTED ANSWER: Wanda Head (Lagos company).
+
+Q: Which tender’s Conditions and Documents Required text is “Molit fugit eligendi”?
+EXPECTED ANSWER: Heather Conrad.
+
+Q: Which tender’s Conditions and Documents Required text is “Ad non pariatur Nob”?
+EXPECTED ANSWER: Quinlan Harrison.
+
+Q: Which tender’s Minimum company requirements are “Temporibus blanditiis”?
+EXPECTED ANSWER: Wanda Head.
+
+Q: Which tender’s Minimum company requirements are “Voluptate cupiditate”?
+EXPECTED ANSWER: Susan Frye.
+
+Q: How many reference detail pages list Institution Type CORPORATE?
+EXPECTED ANSWER: Two—hamza2703 (Zenia Fernandez) and W- Retail X10E (Quinlan Harrison).
+
+Q: How many reference detail pages list Institution Type SME?
+EXPECTED ANSWER: Three—Sidi hrazem (Susan Frye), G U D HOLDINGS (Thomas Warren), and Lagos company (Wanda Head).
+
+Q: For Susan Frye, does the institution header name match the Tender / Project Name?
+EXPECTED ANSWER: No—the header shows Sidi hrazem while Tender / Project Name is Susan Frye.
+
+Q: For Quinlan Harrison, does the page header institution name match the Tender / Project Name?
+EXPECTED ANSWER: No—the header shows W- Retail X10E while Tender / Project Name is Quinlan Harrison.
+
+--- Cross-tender comparisons (status, date, country) ---
+
+Q: Between Susan Frye and Wanda Head on the list, which tender is still open for submission?
+EXPECTED ANSWER: Susan Frye is Open for Submission; Wanda Head is Closed.
+
+Q: Which closes earlier on the list—Sarah Curry or Sara Michael at atgdija?
+EXPECTED ANSWER: Sarah Curry (2026-04-28) closes before Sara Michael (2026-04-29).
+
+Q: Which open tender on the first list capture has the latest closing date—Susan Frye, Zenia Fernandez, or Heather Conrad?
+EXPECTED ANSWER: Heather Conrad (2026-07-01), then Susan Frye (2026-06-28), then Zenia Fernandez (2026-06-18).
+
+Q: Among Thomas Warren, Quinlan Harrison, Wanda Head, and Xantha Alston on the second list capture, which two are closed?
+EXPECTED ANSWER: Wanda Head and Xantha Alston.
+
+Q: Which closed tender on the third list capture is in Uganda?
+EXPECTED ANSWER: Leila Parrish at Tropical Organic Harvests Ltd.
+
+Q: Which country appears on both Sara Michael and Sarah Curry closed tenders?
+EXPECTED ANSWER: Morocco (both at institution atgdija).
+
+Q: Is reference TO-97467503892421 open or closed, and what country does it show on the list?
+EXPECTED ANSWER: Open for Submission; Morocco (Heather Conrad / Peaqock).
+
+Q: Is reference TO-106136025434552 open or closed, and what is its closing date on the list?
+EXPECTED ANSWER: Closed; closing date 2026-05-30 (Wanda Head / Lagos company).
+
+Q: For Thomas Warren, does the list status match the details page status?
+EXPECTED ANSWER: Yes—both show Open for Submission / OPEN_FOR_SUBMISSION.
+
+Q: For Wanda Head, does the list show the same status as the details page?
+EXPECTED ANSWER: Yes—both show Closed (list badge and details CLOSED).
+
+Q: Does the list closing date always match the details “Opening and closing hours” end date?
+EXPECTED ANSWER: No in staging—e.g. Susan Frye list 2026-06-28 vs detail 2024-05-28 23:59; Wanda Head list 2026-05-30 vs detail 2024-05-30 23:59. Prefer the screen the user is viewing or live data.
+
+--- Aggregate counts & summaries (open / closed / country / dates) ---
+
+Q: How many tenders are Open for Submission on the first list screenshot (top of the list)?
+EXPECTED ANSWER: All three fully visible cards—Susan Frye, Zenia Fernandez, and Heather Conrad—are Open for Submission, so 3 open and 0 closed in that visible slice.
+
+Q: How many tenders are Closed on the first list screenshot?
+EXPECTED ANSWER: Zero among the three tenders fully visible in that capture (all showed Open for Submission).
+
+Q: How many tenders are Open for Submission on the second list screenshot?
+EXPECTED ANSWER: Two—Thomas Warren and Quinlan Harrison.
+
+Q: How many tenders are Closed on the second list screenshot?
+EXPECTED ANSWER: Two—Wanda Head and Xantha Alston.
+
+Q: How many tenders appear on the second list capture in total (fully or partly visible)?
+EXPECTED ANSWER: Four named cards in the reference capture (two open, two closed).
+
+Q: How many tenders are Closed on the third list screenshot?
+EXPECTED ANSWER: Five tenders are clearly referenced as closed in that capture: Lilah Goff, Sara Michael, Sarah Curry, Leila Parrish, and ROOFL-9 (partial card).
+
+Q: How many tenders are Open for Submission on the third list screenshot?
+EXPECTED ANSWER: Zero among the tenders documented in that capture—every listed card showed Closed.
+
+Q: Across all list cards documented in the reference captures, how many tenders are Open for Submission?
+EXPECTED ANSWER: Five—Susan Frye, Zenia Fernandez, Heather Conrad, Thomas Warren, and Quinlan Harrison.
+
+Q: Across all list cards documented in the reference captures, how many tenders are Closed?
+EXPECTED ANSWER: Seven—Wanda Head, Xantha Alston, Lilah Goff, Sara Michael, Sarah Curry, Leila Parrish, and ROOFL-9.
+
+Q: How many open-for-submission tenders are there compared to closed ones in the reference list data?
+EXPECTED ANSWER: Five open for submission and seven closed (12 named list entries in total across the captures).
+
+Q: What total result count does the tender opportunities page show in the first capture?
+EXPECTED ANSWER: 26 Results (full catalog size on staging at that moment—not all 26 are visible in the screenshot).
+
+Q: How many of the 26 results were visible as cards in the first screenshot?
+EXPECTED ANSWER: Three full tender cards were visible (all Open for Submission).
+
+Q: How many tenders in the reference list show Morocco as the country?
+EXPECTED ANSWER: Four on the list—Susan Frye, Heather Conrad (list card), Sara Michael, and Sarah Curry. (Heather Conrad’s detail page showed Albania instead of Morocco in one capture.)
+
+Q: How many open-for-submission tenders in the reference list are associated with Morocco?
+EXPECTED ANSWER: Two on the list cards—Susan Frye and Heather Conrad (Peaqock).
+
+Q: How many closed tenders in the reference list are associated with Morocco?
+EXPECTED ANSWER: Two—Sara Michael and Sarah Curry (both at atgdija).
+
+Q: How many different countries appear across the documented list tenders?
+EXPECTED ANSWER: Seven distinct country labels on the list cards—Morocco, South Africa, Madagascar, Nigeria, Equatorial Guinea, Tanzania (United Republic of), and Uganda—plus Zenia Fernandez’s card where the country did not load.
+
+Q: How many tenders in the reference list are from African countries other than Morocco?
+EXPECTED ANSWER: Six list cards with a country label other than Morocco—South Africa, Madagascar, Nigeria, Equatorial Guinea, Tanzania, and Uganda (Zenia Fernandez’s country was not shown).
+
+Q: How many open tenders on the list have a closing date in June 2026?
+EXPECTED ANSWER: Five—all open list entries use June 2026 closing dates: 2026-06-18, 2026-06-28, 2026-06-29, 2026-06-30, and 2026-07-01 (Heather Conrad).
+
+Q: How many closed tenders on the list have a closing date in May 2026?
+EXPECTED ANSWER: Four—Lilah Goff (2026-05-26), Wanda Head (2026-05-30), Xantha Alston (2026-05-29), and Leila Parrish (2026-05-07).
+
+Q: How many closed tenders on the list have a closing date in April 2026?
+EXPECTED ANSWER: Two—Sarah Curry (2026-04-28) and Sara Michael (2026-04-29).
+
+Q: Which month has the most documented closed tenders by closing date—April, May, or June 2026?
+EXPECTED ANSWER: May 2026—four closed tenders (Lilah Goff, Leila Parrish, Wanda Head, Xantha Alston). April has two (Sarah Curry, Sara Michael). No documented closed tender in this set closes in June 2026.
+
+Q: How many tenders at institution atgdija appear in the reference captures, and are they open or closed?
+EXPECTED ANSWER: Two—Sara Michael and Sarah Curry—and both are Closed.
+
+Q: How many tenders are open for submission with a closing date after 2026-06-29?
+EXPECTED ANSWER: One on the list—Heather Conrad (2026-07-01). Thomas Warren closes 2026-06-29 (not after).
+
+Q: How many closed tenders share the same institution name atgdija?
+EXPECTED ANSWER: Two closed tenders—Sara Michael and Sarah Curry.
+
+Q: On the second list capture, what is the ratio of open to closed tenders?
+EXPECTED ANSWER: 2 open (Open for Submission) to 2 closed—50% each among the four visible cards.
+
+Q: Are there more open or more closed tenders in the full reference list dataset (named cards only)?
+EXPECTED ANSWER: More closed—seven closed versus five open for submission.
+
+Q: How many tenders show the status label “Open for Submission” with a green badge on the list?
+EXPECTED ANSWER: Five in the documented list captures (Susan Frye, Zenia Fernandez, Heather Conrad, Thomas Warren, Quinlan Harrison).
+
+Q: How many tenders show a red Closed badge with a lock icon on the list?
+EXPECTED ANSWER: Seven in the documented list captures (Wanda Head, Xantha Alston, Lilah Goff, Sara Michael, Sarah Curry, Leila Parrish, ROOFL-9).
+
+================================================================================
+QUESTIONS ONLY (copy to questions_smoke.txt or a dedicated smoke list)
+================================================================================
+Is the tender for Susan Frye at Sidi hrazem open or closed?
+What is the closing date for Susan Frye (reference TO-97518224781185) on the tender opportunities list?
+Which country is shown for the Susan Frye tender at Sidi hrazem on the list?
+Is the Zenia Fernandez tender at hamza2703 open or closed on the list?
+What closing date appears for Zenia Fernandez (TO-97491221963978) on the list?
+Which country is displayed for Zenia Fernandez on the tender opportunities list?
+Is Heather Conrad’s tender at Peaqock open or closed on the list?
+What is the list closing date for Heather Conrad (TO-97467503892421)?
+Which country is listed for Heather Conrad at Peaqock on the tender list?
+Is the Thomas Warren tender at G U D HOLDINGS (PTY) LTD open or closed?
+What closing date is shown for Thomas Warren (TO-97439949526416) on the list?
+Which country is associated with Thomas Warren’s tender on the list?
+Is the Quinlan Harrison tender at W- Retail X10E open or closed on the list?
+What is the closing date for Quinlan Harrison (TO-97410624420640) on the list?
+Which country is shown for Quinlan Harrison on the tender opportunities list?
+Is the Wanda Head tender at Lagos company open or closed?
+What closing date appears for Wanda Head (TO-106136025434552) on the list?
+Which country is listed for Wanda Head at Lagos company?
+Is the Xantha Alston tender at TESTM Retail Holdings APFR2 open or closed?
+What is the closing date for Xantha Alston (TO-105959357501536) on the list?
+Which country is shown for Xantha Alston’s tender?
+Is the Lilah Goff tender at Technology Holdings O7MRW open or closed?
+What closing date is shown for Lilah Goff (TO-105468162030353)?
+Which country is listed for Lilah Goff’s tender?
+Is the Sara Michael tender at atgdija open or closed?
+What is the closing date for Sara Michael (TO-10767110534873)?
+Which country is shown for Sara Michael’s tender at atgdija?
+Is the Sarah Curry tender at atgdija open or closed?
+What closing date appears for Sarah Curry (TO-495323611168)?
+Which country is listed for Sarah Curry’s tender?
+Is the Leila Parrish tender at Tropical Organic Harvests Ltd open or closed?
+What is the closing date for Leila Parrish (TO-25419386629459)?
+Which country is associated with Leila Parrish’s tender?
+Is the ROOFL-9 tender open or closed on the list?
+How many tender results were indicated on the first list screenshot?
+On the tender details page for Sidi hrazem (Susan Frye), is the project open or closed?
+What closing date and time appear under “Opening and closing hours” for Susan Frye on the details page?
+Which country is indicated on the Susan Frye / Sidi hrazem details page?
+On the details page for hamza2703 (Zenia Fernandez), is the tender open or closed?
+What closing date and time are shown for Zenia Fernandez under opening and closing hours?
+Which country or location is shown for Zenia Fernandez on the details page?
+On the Peaqock details page for Heather Conrad, is the project open or closed?
+What closing date and time appear for Heather Conrad on the details page?
+Which country is associated with Heather Conrad’s tender on the details page?
+On the G U D HOLDINGS (PTY) LTD details page for Thomas Warren, is the tender open or closed?
+What closing date and time are listed for Thomas Warren on the details page?
+Which country is this Thomas Warren tender for on the details page?
+On the W- Retail X10E details page for Quinlan Harrison, is the project open or closed?
+What closing date and time appear for Quinlan Harrison under opening and closing hours?
+Which country is the Quinlan Harrison / W- Retail X10E tender associated with?
+On the Lagos company details page for Wanda Head, is the tender open or closed?
+What closing date and time are shown for Wanda Head on the details page?
+Which country is the Wanda Head tender in on the details page?
+What is the Tender / Project Name for the Sidi hrazem details page?
+What Project Sector is listed for Susan Frye on the Sidi hrazem tender details?
+What Project Currency is shown for Susan Frye’s tender?
+What are the Minimum company requirements for Susan Frye’s tender?
+What does Conditions and Documents Required say for Susan Frye?
+What Additional Tender Information is listed for Susan Frye?
+What Institution Type is shown on the Susan Frye / Sidi hrazem details page?
+What is the Tender / Project Name on the hamza2703 details page?
+What Project Sector is listed for Zenia Fernandez?
+What Project Currency appears for Zenia Fernandez’s tender?
+What are the Minimum company requirements for Zenia Fernandez?
+What does Conditions and Documents Required say for Zenia Fernandez?
+What Additional Tender Information is listed for Zenia Fernandez?
+What Institution Type is shown for hamza2703 (Zenia Fernandez)?
+What is the Tender / Project Name on the Peaqock details page?
+What Project Sector is listed for Heather Conrad’s tender?
+What Project Currency is shown for Heather Conrad?
+What are the Minimum company requirements for Heather Conrad?
+What does Conditions and Documents Required say for Heather Conrad?
+What Additional Tender Information is listed for Heather Conrad?
+What is the Tender / Project Name on the G U D HOLDINGS (PTY) LTD details page?
+What Project Sector is listed for Thomas Warren’s tender?
+What Project Currency appears for Thomas Warren’s tender?
+What Institution Type is shown for G U D HOLDINGS (Thomas Warren)?
+What is the Tender / Project Name on the W- Retail X10E details page?
+What Project Sector is listed for Quinlan Harrison’s tender?
+What Project Currency is shown for Quinlan Harrison?
+What are the Minimum company requirements for Quinlan Harrison?
+What does Conditions and Documents Required say for Quinlan Harrison?
+What Additional Tender Information is listed for Quinlan Harrison?
+What Institution Type is shown for W- Retail X10E (Quinlan Harrison)?
+What is the Tender / Project Name on the Lagos company details page?
+What Project Sector is listed in the Tender Details table for Wanda Head?
+What Project Currency is shown for Wanda Head’s tender?
+What are the Minimum company requirements for Wanda Head?
+What does Conditions and Documents Required say for Wanda Head?
+What Additional Tender Information is listed for Wanda Head?
+What Institution Type is shown for Lagos company (Wanda Head)?
+What amount range is shown for Susan Frye’s tender in the details table?
+What amount range is shown for Heather Conrad’s tender?
+What amount range is shown for Quinlan Harrison’s tender?
+What amount range is shown for Wanda Head’s tender?
+Which documented detail tenders list Housing as the Project Sector?
+Which documented detail tender lists Water as the Project Sector?
+Which documented detail tender lists Manufacturing as the Project Sector?
+Which documented detail tenders use ALL (Albanian Lek) as Project Currency?
+Which documented detail tenders use ARS (Argentine Peso) as Project Currency?
+Do Heather Conrad and Quinlan Harrison share the same Project Currency in the reference details?
+Do Thomas Warren and Wanda Head share the same Project Currency in the reference details?
+Which tender uses AOA (Angolan Kwanza) as Project Currency?
+Which tender uses ANG (Netherlands Antillean Guilder) as Project Currency?
+Which open detail tender has Manufacturing sector versus Housing?
+Which closed detail tender in the reference set has Transport as Project Sector?
+Which tender’s Conditions and Documents Required text is “Molit fugit eligendi”?
+Which tender’s Conditions and Documents Required text is “Ad non pariatur Nob”?
+Which tender’s Minimum company requirements are “Temporibus blanditiis”?
+Which tender’s Minimum company requirements are “Voluptate cupiditate”?
+How many reference detail pages list Institution Type CORPORATE?
+How many reference detail pages list Institution Type SME?
+For Susan Frye, does the institution header name match the Tender / Project Name?
+For Quinlan Harrison, does the page header institution name match the Tender / Project Name?
+Between Susan Frye and Wanda Head on the list, which tender is still open for submission?
+Which closes earlier on the list—Sarah Curry or Sara Michael at atgdija?
+Which open tender on the first list capture has the latest closing date—Susan Frye, Zenia Fernandez, or Heather Conrad?
+Among Thomas Warren, Quinlan Harrison, Wanda Head, and Xantha Alston on the second list capture, which two are closed?
+Which closed tender on the third list capture is in Uganda?
+Which country appears on both Sara Michael and Sarah Curry closed tenders?
+Is reference TO-97467503892421 open or closed, and what country does it show on the list?
+Is reference TO-106136025434552 open or closed, and what is its closing date on the list?
+For Thomas Warren, does the list status match the details page status?
+For Wanda Head, does the list show the same status as the details page?
+Does the list closing date always match the details “Opening and closing hours” end date?
+How many tenders are Open for Submission on the first list screenshot (top of the list)?
+How many tenders are Closed on the first list screenshot?
+How many tenders are Open for Submission on the second list screenshot?
+How many tenders are Closed on the second list screenshot?
+How many tenders appear on the second list capture in total (fully or partly visible)?
+How many tenders are Closed on the third list screenshot?
+How many tenders are Open for Submission on the third list screenshot?
+Across all list cards documented in the reference captures, how many tenders are Open for Submission?
+Across all list cards documented in the reference captures, how many tenders are Closed?
+How many open-for-submission tenders are there compared to closed ones in the reference list data?
+What total result count does the tender opportunities page show in the first capture?
+How many of the 26 results were visible as cards in the first screenshot?
+How many detail pages in the reference set show Open for Submission?
+How many detail pages in the reference set show Closed status?
+How many tenders in the reference list show Morocco as the country?
+How many open-for-submission tenders in the reference list are associated with Morocco?
+How many closed tenders in the reference list are associated with Morocco?
+How many different countries appear across the documented list tenders?
+How many tenders in the reference list are from African countries other than Morocco?
+How many open tenders on the list have a closing date in June 2026?
+How many closed tenders on the list have a closing date in May 2026?
+How many closed tenders on the list have a closing date in April 2026?
+Which month has the most documented closed tenders by closing date—April, May, or June 2026?
+How many tenders at institution atgdija appear in the reference captures, and are they open or closed?
+How many tenders are open for submission with a closing date after 2026-06-29?
+How many closed tenders share the same institution name atgdija?
+On the second list capture, what is the ratio of open to closed tenders?
+Are there more open or more closed tenders in the full reference list dataset (named cards only)?
+How many tenders show the status label “Open for Submission” with a green badge on the list?
+How many tenders show a red Closed badge with a lock icon on the list?
+
+================================================================================
+PAGE: African Marketplace & Trade — product categories, suppliers, pricing (2019-2024)
+================================================================================
+Reference dataset for Kora AI evaluation: product categories, agricultural and industrial commodities, country-specific trade, supplier information, pricing/currency, trade volumes, regional patterns, and logistics. USD to MAD conversion rate used in source data: approximately 1 USD = 10 MAD. All prices are approximate and subject to market fluctuations.
+
+--- Section 1: Product categories ---
+
+Q: What are the main product categories available on the African marketplace?
+EXPECTED ANSWER: Consumer Electronics (Earphones & Headphones); Apparel & Accessories (Hats & Caps); Home & Garden (Home Decor, Drinkware & Accessories, Dinnerware & Coffee); Sports & Entertainment (Camping & Hiking); Mother, Kids & Toys (Baby Food, Baby & Toddler Toys, Kids' Luggage & Bags); Health & Personal Care; Industrial products; Fashion & Beauty; Tools & Home Improvement; Maintenance, Repair & Operations; Raw Materials; Services.
+
+Q: Which agricultural products are most traded on the African marketplace?
+EXPECTED ANSWER: Rice, Sugar, Wheat, Maize, Sunflower Oil, Palm Oil, and Coffee.
+
+Q: What industrial materials are available on the African marketplace?
+EXPECTED ANSWER: Cement, Steel, NPK (Nitrogen, Phosphorus, Potassium fertilizer), and Urea fertilizer.
+
+--- Section 2: Country-specific trade ---
+
+Q: Which African countries are the top suppliers of rice in the marketplace?
+EXPECTED ANSWER: Nigeria (2.5 million tons, $1.2 billion USD / 12 billion MAD); Egypt (1.8 million tons, $900 million USD / 9 billion MAD); Madagascar (1.2 million tons, $600 million USD / 6 billion MAD); Senegal (800,000 tons, $400 million USD / 4 billion MAD).
+
+Q: What is the price range for sugar from different African countries?
+EXPECTED ANSWER: South Africa: $450-500 per ton (4,500-5,000 MAD); Egypt: $420-480 per ton (4,200-4,800 MAD); Morocco: $400-450 per ton (4,000-4,500 MAD); Kenya: $380-420 per ton (3,800-4,200 MAD).
+
+Q: Which African countries export the most wheat?
+EXPECTED ANSWER: South Africa (3.2 million tons, $1.6 billion USD / 16 billion MAD); Egypt (2.8 million tons, $1.4 billion USD / 14 billion MAD); Morocco (2.1 million tons, $1.05 billion USD / 10.5 billion MAD); Tunisia (1.5 million tons, $750 million USD / 7.5 billion MAD).
+
+Q: What are the main coffee-producing countries in Africa and their prices?
+EXPECTED ANSWER: Ethiopia: $2,800-3,200 per ton (28,000-32,000 MAD); Uganda: $2,600-3,000 per ton (26,000-30,000 MAD); Kenya: $2,400-2,800 per ton (24,000-28,000 MAD); Tanzania: $2,200-2,600 per ton (22,000-26,000 MAD).
+
+--- Section 3: Supplier information ---
+
+Q: Which African countries have the most reliable steel suppliers?
+EXPECTED ANSWER: South Africa (6.8 million tons, $3.4 billion USD / 34 billion MAD); Egypt (8.2 million tons, $4.1 billion USD / 41 billion MAD); Morocco (1.2 million tons, $600 million USD / 6 billion MAD); Algeria (1.8 million tons, $900 million USD / 9 billion MAD).
+
+Q: What is the cement production capacity in North African countries?
+EXPECTED ANSWER: Egypt: 85 million tons annually ($4.25 billion USD / 42.5 billion MAD); Morocco: 20 million tons annually ($1 billion USD / 10 billion MAD); Algeria: 18 million tons annually ($900 million USD / 9 billion MAD); Tunisia: 8 million tons annually ($400 million USD / 4 billion MAD).
+
+Q: Which African countries are the top suppliers of palm oil?
+EXPECTED ANSWER: Nigeria (1.2 million tons, $1.08 billion USD / 10.8 billion MAD); Côte d'Ivoire (800,000 tons, $720 million USD / 7.2 billion MAD); Ghana (600,000 tons, $540 million USD / 5.4 billion MAD); Cameroon (400,000 tons, $360 million USD / 3.6 billion MAD).
+
+--- Section 4: Pricing and currency ---
+
+Q: What is the average price of maize per ton from different African regions?
+EXPECTED ANSWER: East Africa: $280-320 per ton (2,800-3,200 MAD); West Africa: $300-350 per ton (3,000-3,500 MAD); Southern Africa: $250-300 per ton (2,500-3,000 MAD); North Africa: $320-380 per ton (3,200-3,800 MAD).
+
+Q: How much does sunflower oil cost per ton from African suppliers?
+EXPECTED ANSWER: South Africa: $1,200-1,400 per ton (12,000-14,000 MAD); Egypt: $1,100-1,300 per ton (11,000-13,000 MAD); Morocco: $1,000-1,200 per ton (10,000-12,000 MAD); Tunisia: $1,150-1,350 per ton (11,500-13,500 MAD).
+
+Q: What are the fertilizer prices (NPK and Urea) in African markets?
+EXPECTED ANSWER: NPK: $400-500 per ton (4,000-5,000 MAD); Urea: $350-450 per ton (3,500-4,500 MAD). Prices vary by country and season; South Africa typically has the lowest prices; landlocked countries have higher prices due to transport costs.
+
+--- Section 5: Trade volumes and statistics ---
+
+Q: What is the total trade volume of agricultural products between African countries?
+EXPECTED ANSWER: Rice: 8.5 million tons ($4.25 billion USD / 42.5 billion MAD); Wheat: 12.3 million tons ($6.15 billion USD / 61.5 billion MAD); Maize: 15.7 million tons ($4.71 billion USD / 47.1 billion MAD); Coffee: 2.1 million tons ($5.88 billion USD / 58.8 billion MAD).
+
+Q: Which African countries have the highest import volumes for industrial materials?
+EXPECTED ANSWER: Nigeria: $8.5 billion USD (85 billion MAD) — steel, cement, machinery; Egypt: $6.2 billion USD (62 billion MAD) — industrial equipment, chemicals; South Africa: $5.8 billion USD (58 billion MAD) — mining equipment, technology; Morocco: $4.1 billion USD (41 billion MAD) — automotive parts, electronics.
+
+--- Section 6: Regional trade patterns ---
+
+Q: What are the main trade routes for agricultural products in West Africa?
+EXPECTED ANSWER: Nigeria → Ghana: rice, palm oil ($1.2 billion USD / 12 billion MAD); Côte d'Ivoire → Mali: cocoa, coffee ($800 million USD / 8 billion MAD); Senegal → Mauritania: rice, fish ($400 million USD / 4 billion MAD); Ghana → Burkina Faso: maize, rice ($300 million USD / 3 billion MAD).
+
+Q: Which East African countries trade the most with each other?
+EXPECTED ANSWER: Kenya → Uganda: coffee, tea ($1.5 billion USD / 15 billion MAD); Tanzania → Kenya: maize, rice ($1.2 billion USD / 12 billion MAD); Ethiopia → Sudan: coffee, livestock ($800 million USD / 8 billion MAD); Uganda → Tanzania: coffee, fish ($600 million USD / 6 billion MAD).
+
+Q: What is the trade volume between North African countries?
+EXPECTED ANSWER: Morocco → Algeria: $2.1 billion USD (21 billion MAD); Egypt → Libya: $1.8 billion USD (18 billion MAD); Tunisia → Algeria: $1.2 billion USD (12 billion MAD); Morocco → Tunisia: $800 million USD (8 billion MAD).
+
+--- Section 7: Supply chain and logistics ---
+
+Q: Which African countries have the best port infrastructure for exports?
+EXPECTED ANSWER: South Africa (Durban, Cape Town): $12 billion USD (120 billion MAD) annual throughput; Egypt (Alexandria, Port Said): $8.5 billion USD (85 billion MAD); Morocco (Casablanca, Tangier): $6.2 billion USD (62 billion MAD); Nigeria (Lagos, Port Harcourt): $5.8 billion USD (58 billion MAD).
+
+Q: What are the main transportation costs for goods between African countries?
+EXPECTED ANSWER: Road transport: $0.15-0.25 per km per ton (1.5-2.5 MAD); Rail transport: $0.08-0.12 per km per ton (0.8-1.2 MAD); Sea transport: $50-80 per ton (500-800 MAD); Air transport: $2-5 per kg (20-50 MAD).
+
+================================================================================
+QUESTIONS ONLY (copy to questions_smoke.txt or a dedicated smoke list)
+================================================================================
+What are the main product categories available on the African marketplace?
+Which agricultural products are most traded on the African marketplace?
+What industrial materials are available on the African marketplace?
+Which African countries are the top suppliers of rice in the marketplace?
+What is the price range for sugar from different African countries?
+Which African countries export the most wheat?
+What are the main coffee-producing countries in Africa and their prices?
+Which African countries have the most reliable steel suppliers?
+What is the cement production capacity in North African countries?
+Which African countries are the top suppliers of palm oil?
+What is the average price of maize per ton from different African regions?
+How much does sunflower oil cost per ton from African suppliers?
+What are the fertilizer prices (NPK and Urea) in African markets?
+What is the total trade volume of agricultural products between African countries?
+Which African countries have the highest import volumes for industrial materials?
+What are the main trade routes for agricultural products in West Africa?
+Which East African countries trade the most with each other?
+What is the trade volume between North African countries?
+Which African countries have the best port infrastructure for exports?
+What are the main transportation costs for goods between African countries?
+
+================================================================================
+PAGE: Morocco Demographics — population by gender (2019-2024)
+================================================================================
+Reference dataset for Kora AI evaluation: annual population totals, year-over-year percentage changes, male/female counts and growth rates, multi-year averages, and cumulative changes. Years covered: 2019, 2020, 2021, 2022, 2023, 2024. Columns: Population, Population Change (%), Male, Male Change (%), Female, Female Change (%). Annual change columns indicate year-over-year percentage changes. The "Average (2019-2024)" summary row provides multi-year averages and cumulative percentage changes as displayed in the source table.
+
+--- Data snapshot (source table summary) ---
+
+2019: Population 36,210,898 | Pop Change 1.04% | Male 18,284,522 (1.07%) | Female 17,926,376 (1.00%)
+2020: Population 36,584,208 | Pop Change 1.03% | Male 18,471,768 (1.02%) | Female 18,112,440 (1.04%)
+2021: Population 36,954,442 | Pop Change 1.01% | Male 18,653,397 (0.98%) | Female 18,301,045 (1.04%)
+2022: Population 37,329,064 | Pop Change 1.01% | Male 18,837,517 (0.99%) | Female 18,491,547 (1.04%)
+2023: Population 37,712,505 | Pop Change 1.03% | Male 19,023,229 (0.99%) | Female 18,689,276 (1.07%)
+2024: Population 38,081,173 | Pop Change 0.98% | Male 19,202,022 (0.94%) | Female 18,879,151 (1.02%)
+Average (2019-2024): Population 37,145,381.667 | Change 5.16% | Male 18,745,409.167 (5.02%) | Female 18,399,972.500 (5.31%)
+
+--- Topline questions and answers ---
+
+Q: What is Morocco's total population in 2024?
+EXPECTED ANSWER: 38,081,173 people.
+
+Q: By what percentage did Morocco's total population change in 2024?
+EXPECTED ANSWER: 0.98% increase year-over-year.
+
+Q: What are the male and female population counts in Morocco in 2024?
+EXPECTED ANSWER: Male: 19,202,022; Female: 18,879,151.
+
+Q: In Morocco, which gender grew faster in 2024?
+EXPECTED ANSWER: Female, with 1.02% versus male at 0.94%.
+
+Q: What was Morocco's total population in 2019?
+EXPECTED ANSWER: 36,210,898 people.
+
+Q: What was the average population in Morocco between 2019 and 2024?
+EXPECTED ANSWER: Approximately 37,145,382 people (37,145,381.667 in the source table).
+
+Q: Which year recorded the highest population in Morocco during 2019–2024?
+EXPECTED ANSWER: 2024, with 38,081,173 people.
+
+Q: Which year recorded the lowest population in Morocco during 2019–2024?
+EXPECTED ANSWER: 2019, with 36,210,898 people.
+
+Q: What year had the highest annual total population growth rate in Morocco?
+EXPECTED ANSWER: 2019, at 1.04% (slightly higher than 2020 and 2023 at 1.03% and 2021/2022 at 1.01%).
+
+Q: What year had the lowest annual total population growth rate in Morocco?
+EXPECTED ANSWER: 2024, at 0.98%.
+
+Q: What was the male population in Morocco in 2019 and 2024, respectively?
+EXPECTED ANSWER: 2019: 18,284,522; 2024: 19,202,022.
+
+Q: What was the female population in Morocco in 2019 and 2024, respectively?
+EXPECTED ANSWER: 2019: 17,926,376; 2024: 18,879,151.
+
+Q: Over 2019–2024 in Morocco, which gender experienced the larger cumulative change?
+EXPECTED ANSWER: Female, with a cumulative 5.31% versus male at 5.02%.
+
+Q: In which year did the male population growth rate peak in Morocco (2019–2024)?
+EXPECTED ANSWER: 2019, at 1.07%.
+
+Q: In which year did the female population growth rate bottom out in Morocco (2019–2024)?
+EXPECTED ANSWER: 2019 shows the minimum displayed at 1.00%.
+
+Q: What was the spread between male and female population counts in Morocco in 2024?
+EXPECTED ANSWER: 19,202,022 (male) − 18,879,151 (female) ≈ 322,871 more males.
+
+Q: What is the average male population in Morocco from 2019 to 2024?
+EXPECTED ANSWER: 18,745,409.167.
+
+Q: What is the average female population in Morocco from 2019 to 2024?
+EXPECTED ANSWER: 18,399,972.500.
+
+Q: How much did total population rise in Morocco between 2019 and 2024 in absolute terms?
+EXPECTED ANSWER: 38,081,173 − 36,210,898 = 1,870,275 people.
+
+Q: What were the annual total population growth rates in Morocco in 2021 and 2022?
+EXPECTED ANSWER: Both years show 1.01%.
+
+Q: In Morocco in 2024, did male and female annual growth rates move in the same direction?
+EXPECTED ANSWER: Yes. Male rose 0.94% and female rose 1.02%—both increases, with female faster.
+
+Q: In Morocco in 2020, which gender had the higher growth rate?
+EXPECTED ANSWER: Female at 1.04% versus male at 1.02%.
+
+Q: In Morocco in 2024, what share of the total population was male versus female?
+EXPECTED ANSWER: Male ≈ 50.4%; Female ≈ 49.6% (based on the reported counts).
+
+Q: Over 2019–2024 in Morocco, did the gender balance substantially shift?
+EXPECTED ANSWER: No. Male remained slightly higher than female, with small incremental changes.
+
+Q: What is the cumulative total population change shown for Morocco for 2019–2024?
+EXPECTED ANSWER: 5.16% (as presented in the "Average (2019-2024)" summary row).
+
+================================================================================
+QUESTIONS ONLY (copy to questions_smoke.txt or a dedicated smoke list)
+================================================================================
+What is Morocco's total population in 2024?
+By what percentage did Morocco's total population change in 2024?
+What are the male and female population counts in Morocco in 2024?
+In Morocco, which gender grew faster in 2024?
+What was Morocco's total population in 2019?
+What was the average population in Morocco between 2019 and 2024?
+Which year recorded the highest population in Morocco during 2019–2024?
+Which year recorded the lowest population in Morocco during 2019–2024?
+What year had the highest annual total population growth rate in Morocco?
+What year had the lowest annual total population growth rate in Morocco?
+What was the male population in Morocco in 2019 and 2024, respectively?
+What was the female population in Morocco in 2019 and 2024, respectively?
+Over 2019–2024 in Morocco, which gender experienced the larger cumulative change?
+In which year did the male population growth rate peak in Morocco (2019–2024)?
+In which year did the female population growth rate bottom out in Morocco (2019–2024)?
+What was the spread between male and female population counts in Morocco in 2024?
+What is the average male population in Morocco from 2019 to 2024?
+What is the average female population in Morocco from 2019 to 2024?
+How much did total population rise in Morocco between 2019 and 2024 in absolute terms?
+What were the annual total population growth rates in Morocco in 2021 and 2022?
+In Morocco in 2024, did male and female annual growth rates move in the same direction?
+In Morocco in 2020, which gender had the higher growth rate?
+In Morocco in 2024, what share of the total population was male versus female?
+Over 2019–2024 in Morocco, did the gender balance substantially shift?
+What is the cumulative total population change shown for Morocco for 2019–2024?
+
+================================================================================
+PAGE: Morocco Demographics — population by gender (2019-2024)
+================================================================================
+Reference dataset for Kora AI evaluation: annual population totals, year-over-year percentage changes, male/female counts and growth rates, multi-year averages, and cumulative changes. Years covered: 2019, 2020, 2021, 2022, 2023, 2024. Columns: Population, Population Change (%), Male, Male Change (%), Female, Female Change (%). Annual change columns indicate year-over-year percentage changes. The "Average (2019-2024)" summary row provides multi-year averages and cumulative percentage changes as displayed in the source table.
+
+--- Data snapshot (source table summary) ---
+
+2019: Population 36,210,898 | Pop Change 1.04% | Male 18,284,522 (1.07%) | Female 17,926,376 (1.00%)
+2020: Population 36,584,208 | Pop Change 1.03% | Male 18,471,768 (1.02%) | Female 18,112,440 (1.04%)
+2021: Population 36,954,442 | Pop Change 1.01% | Male 18,653,397 (0.98%) | Female 18,301,045 (1.04%)
+2022: Population 37,329,064 | Pop Change 1.01% | Male 18,837,517 (0.99%) | Female 18,491,547 (1.04%)
+2023: Population 37,712,505 | Pop Change 1.03% | Male 19,023,229 (0.99%) | Female 18,689,276 (1.07%)
+2024: Population 38,081,173 | Pop Change 0.98% | Male 19,202,022 (0.94%) | Female 18,879,151 (1.02%)
+Average (2019-2024): Population 37,145,381.667 | Change 5.16% | Male 18,745,409.167 (5.02%) | Female 18,399,972.500 (5.31%)
+
+--- Topline questions and answers ---
+
+Q: What is Morocco's total population in 2024?
+EXPECTED ANSWER: 38,081,173 people.
+
+Q: By what percentage did Morocco's total population change in 2024?
+EXPECTED ANSWER: 0.98% increase year-over-year.
+
+Q: What are the male and female population counts in Morocco in 2024?
+EXPECTED ANSWER: Male: 19,202,022; Female: 18,879,151.
+
+Q: In Morocco, which gender grew faster in 2024?
+EXPECTED ANSWER: Female, with 1.02% versus male at 0.94%.
+
+Q: What was Morocco's total population in 2019?
+EXPECTED ANSWER: 36,210,898 people.
+
+Q: What was the average population in Morocco between 2019 and 2024?
+EXPECTED ANSWER: Approximately 37,145,382 people (37,145,381.667 in the source table).
+
+Q: Which year recorded the highest population in Morocco during 2019–2024?
+EXPECTED ANSWER: 2024, with 38,081,173 people.
+
+Q: Which year recorded the lowest population in Morocco during 2019–2024?
+EXPECTED ANSWER: 2019, with 36,210,898 people.
+
+Q: What year had the highest annual total population growth rate in Morocco?
+EXPECTED ANSWER: 2019, at 1.04% (slightly higher than 2020 and 2023 at 1.03% and 2021/2022 at 1.01%).
+
+Q: What year had the lowest annual total population growth rate in Morocco?
+EXPECTED ANSWER: 2024, at 0.98%.
+
+Q: What was the male population in Morocco in 2019 and 2024, respectively?
+EXPECTED ANSWER: 2019: 18,284,522; 2024: 19,202,022.
+
+Q: What was the female population in Morocco in 2019 and 2024, respectively?
+EXPECTED ANSWER: 2019: 17,926,376; 2024: 18,879,151.
+
+Q: Over 2019–2024 in Morocco, which gender experienced the larger cumulative change?
+EXPECTED ANSWER: Female, with a cumulative 5.31% versus male at 5.02%.
+
+Q: In which year did the male population growth rate peak in Morocco (2019–2024)?
+EXPECTED ANSWER: 2019, at 1.07%.
+
+Q: In which year did the female population growth rate bottom out in Morocco (2019–2024)?
+EXPECTED ANSWER: 2019 shows the minimum displayed at 1.00%.
+
+Q: What was the spread between male and female population counts in Morocco in 2024?
+EXPECTED ANSWER: 19,202,022 (male) − 18,879,151 (female) ≈ 322,871 more males.
+
+Q: What is the average male population in Morocco from 2019 to 2024?
+EXPECTED ANSWER: 18,745,409.167.
+
+Q: What is the average female population in Morocco from 2019 to 2024?
+EXPECTED ANSWER: 18,399,972.500.
+
+Q: How much did total population rise in Morocco between 2019 and 2024 in absolute terms?
+EXPECTED ANSWER: 38,081,173 − 36,210,898 = 1,870,275 people.
+
+Q: What were the annual total population growth rates in Morocco in 2021 and 2022?
+EXPECTED ANSWER: Both years show 1.01%.
+
+Q: In Morocco in 2024, did male and female annual growth rates move in the same direction?
+EXPECTED ANSWER: Yes. Male rose 0.94% and female rose 1.02%—both increases, with female faster.
+
+Q: In Morocco in 2020, which gender had the higher growth rate?
+EXPECTED ANSWER: Female at 1.04% versus male at 1.02%.
+
+Q: In Morocco in 2024, what share of the total population was male versus female?
+EXPECTED ANSWER: Male ≈ 50.4%; Female ≈ 49.6% (based on the reported counts).
+
+Q: Over 2019–2024 in Morocco, did the gender balance substantially shift?
+EXPECTED ANSWER: No. Male remained slightly higher than female, with small incremental changes.
+
+Q: What is the cumulative total population change shown for Morocco for 2019–2024?
+EXPECTED ANSWER: 5.16% (as presented in the "Average (2019-2024)" summary row).
+
+================================================================================
+QUESTIONS ONLY (copy to questions_smoke.txt or a dedicated smoke list)
+================================================================================
+What is Morocco's total population in 2024?
+By what percentage did Morocco's total population change in 2024?
+What are the male and female population counts in Morocco in 2024?
+In Morocco, which gender grew faster in 2024?
+What was Morocco's total population in 2019?
+What was the average population in Morocco between 2019 and 2024?
+Which year recorded the highest population in Morocco during 2019–2024?
+Which year recorded the lowest population in Morocco during 2019–2024?
+What year had the highest annual total population growth rate in Morocco?
+What year had the lowest annual total population growth rate in Morocco?
+What was the male population in Morocco in 2019 and 2024, respectively?
+What was the female population in Morocco in 2019 and 2024, respectively?
+Over 2019–2024 in Morocco, which gender experienced the larger cumulative change?
+In which year did the male population growth rate peak in Morocco (2019–2024)?
+In which year did the female population growth rate bottom out in Morocco (2019–2024)?
+What was the spread between male and female population counts in Morocco in 2024?
+What is the average male population in Morocco from 2019 to 2024?
+What is the average female population in Morocco from 2019 to 2024?
+How much did total population rise in Morocco between 2019 and 2024 in absolute terms?
+What were the annual total population growth rates in Morocco in 2021 and 2022?
+In Morocco in 2024, did male and female annual growth rates move in the same direction?
+In Morocco in 2020, which gender had the higher growth rate?
+In Morocco in 2024, what share of the total population was male versus female?
+Over 2019–2024 in Morocco, did the gender balance substantially shift?
+What is the cumulative total population change shown for Morocco for 2019–2024?
+
+================================================================================
+PAGE: Egypt–Africa Trade Data — economic indicators, products, partners (2019-2024)
+================================================================================
+Reference dataset for Kora AI evaluation: Egypt economic indicators (2024), top imported/exported products, trade partners, neighboring partners, high-level summaries, and aggregate statistics for Egypt–Africa trade 2019–2024.
+
+--- Egypt economic indicators 2024 ---
+
+Q: What is Egypt's total population in 2024?
+EXPECTED ANSWER: 116,538,258 people.
+
+Q: What is Egypt's GDP in current US dollars for 2024?
+EXPECTED ANSWER: $389,059,911,003.57.
+
+Q: What is Egypt's inflation rate (GDP deflator) in 2024?
+EXPECTED ANSWER: 33.69%.
+
+Q: What are the economic regions that Egypt belongs to?
+EXPECTED ANSWER: Common Market for Eastern and Southern Africa; Community of Sahel-Saharan States.
+
+Q: What is Egypt's geographic region classification?
+EXPECTED ANSWER: North Africa.
+
+Q: What is Egypt's GDP per capita in 2024?
+EXPECTED ANSWER: Approximately $3,338.50 (calculated as $389,059,911,003.57 ÷ 116,538,258).
+
+--- Top 6 imported products by Egypt from Africa ---
+
+Q: What is the most imported product by Egypt from Africa between 2019-2024, and what are its total import value and share?
+EXPECTED ANSWER: 740311 - Copper cathodes an… — total import value $3.49B, share 29.87% of total imports.
+
+Q: Which product ranks second in terms of import value from Africa to Egypt between 2019-2024, and what are its import statistics?
+EXPECTED ANSWER: 090240 - Tea, black (fermente…) — total import value $1.48B, share 12.67% of total imports.
+
+Q: What is the total import value and percentage share for "Cotton, not carded o..." (HS code 520100) between 2019-2024?
+EXPECTED ANSWER: 520100 - Cotton, not carded o… — $627.58M, 5.37% share of total imports.
+
+Q: How much did Egypt import of "Mammals; live, came..." (HS code 010613) from Africa between 2019-2024, and what was its contribution to total imports?
+EXPECTED ANSWER: Mammals; live, came… (010613) — $557.34M, 4.77% share of total imports.
+
+Q: Can you provide the import value and share for "Sesamum seeds" (HS code 120740) between 2019-2024?
+EXPECTED ANSWER: 120740 - Sesamum seeds — $494.54M, 4.24% share of total imports.
+
+Q: Among the listed top 6 products between 2019-2024, which one has the lowest import value, and what is that value?
+EXPECTED ANSWER: 271012 - Petroleum oils and oil… — lowest among the top 6 at $431.54M.
+
+Q: What is the combined share of the top two imported products by Egypt from Africa between 2019-2024?
+EXPECTED ANSWER: 42.54% (Copper cathodes 29.87% + Tea, black 12.67%).
+
+Q: What is the difference in import value between the top imported product and the second most imported product between 2019-2024?
+EXPECTED ANSWER: $3.49B − $1.48B = $2.01B.
+
+--- Top 6 exported products by Egypt to Africa ---
+
+Q: What is the most exported product by Egypt to Africa between 2019-2024, and what are its export value and share?
+EXPECTED ANSWER: 252310 - Cement clinkers — total export value $1.55B, share 4.35% of total exports.
+
+Q: Which product ranks second in terms of export value from Egypt to Africa between 2019-2024?
+EXPECTED ANSWER: 271012 - Petroleum oils and oil… — total export value $1.18B, share 3.32% of total exports.
+
+Q: What is the export value and share for "Wheat or meslin flour" (HS code 110100) between 2019-2024?
+EXPECTED ANSWER: 110100 - Wheat or meslin flour — $1.13B, 3.17% share of total exports.
+
+Q: How much did Egypt export of "Mixed odoriferous su..." (HS code 330210) to Africa between 2019-2024?
+EXPECTED ANSWER: Mixed odoriferous su… (330210) — $1.01B, 2.84% share of total exports.
+
+Q: What is the export value and share for "Reception apparatus..." (HS code 852872) between 2019-2024?
+EXPECTED ANSWER: 852872 - Reception apparatus… — $887.94M, 2.49% share of total exports.
+
+Q: Among the top 6 exported products between 2019-2024, which one has the lowest export value?
+EXPECTED ANSWER: 680221 - Cut or sawn slabs of … — lowest among the top 6 at $842.94M.
+
+Q: What is the combined share of the top two exported products by Egypt to Africa between 2019-2024?
+EXPECTED ANSWER: 7.67% (Cement clinkers 4.35% + Petroleum oils 3.32%).
+
+--- Top 6 trade products by Egypt from Africa ---
+
+Q: What are the top 6 trade products imported by Egypt from Africa between 2019-2024?
+EXPECTED ANSWER: (1) Copper cathodes an… (740311) $3.49B (7.38%); (2) Petroleum oils and oil… (271012) $1.61B (3.41%); (3) Cement clinkers (252310) $1.55B (3.28%); (4) Tea, black (fermente…) (090240) $1.48B (3.13%); (5) Wheat or meslin flour (110100) $1.13B (2.39%); (6) Mixed odoriferous su… (330210) $1.01B (2.14%).
+
+Q: Which product has the highest import value among the top 6 trade products between 2019-2024?
+EXPECTED ANSWER: Copper cathodes (740311) — $3.49 billion.
+
+Q: What is the total share of the top 6 products in Egypt's total imports from Africa between 2019-2024?
+EXPECTED ANSWER: 21.73% (7.38% + 3.41% + 3.28% + 3.13% + 2.39% + 2.14%).
+
+--- Top 6 importing Africa partners of Egypt ---
+
+Q: Which African country is Egypt's top importing partner between 2019-2024, and what are the trade figures?
+EXPECTED ANSWER: Democratic Republic of the Congo — $2.03B import value, 17.37% share of total imports.
+
+Q: What is the import value and share for Sudan as Egypt's trading partner between 2019-2024?
+EXPECTED ANSWER: Sudan — $2.00B, 17.09% share of total imports.
+
+Q: Which country ranks third in terms of import value to Egypt between 2019-2024?
+EXPECTED ANSWER: Kenya — $1.63B, 13.92% share of total imports.
+
+Q: What are the import values for Zambia, Algeria, and South Africa as Egypt's trading partners between 2019-2024?
+EXPECTED ANSWER: Zambia: $1.27B (10.88%); Algeria: $864.57M (7.40%); South Africa: $659.73M (5.65%).
+
+Q: What is the combined share of the top three importing partners (DRC, Sudan, and Kenya) between 2019-2024?
+EXPECTED ANSWER: 48.38% (17.37% + 17.09% + 13.92%).
+
+--- Top 6 exporting Africa partners of Egypt ---
+
+Q: Which African country is Egypt's top export destination between 2019-2024, and what are the export figures?
+EXPECTED ANSWER: Libya — $7.40B export value, 20.79% share of total exports.
+
+Q: What is the export value and share for Sudan as Egypt's trading partner between 2019-2024?
+EXPECTED ANSWER: Sudan — $4.60B, 12.92% share of total exports.
+
+Q: Which country ranks third in terms of export value from Egypt between 2019-2024?
+EXPECTED ANSWER: Morocco — $4.49B, 12.63% share of total exports.
+
+Q: What are the export values for Algeria, Tunisia, and Kenya as Egypt's trading partners between 2019-2024?
+EXPECTED ANSWER: Algeria: $4.25B (11.93%); Tunisia: $2.25B (6.32%); Kenya: $2.11B (5.92%).
+
+Q: What is the combined share of the top three export destinations (Libya, Sudan, and Morocco) between 2019-2024?
+EXPECTED ANSWER: 46.34% (20.79% + 12.92% + 12.63%).
+
+--- Top 6 trade Africa partners of Egypt ---
+
+Q: What are Egypt's top 6 trade partners in Africa based on import values between 2019-2024?
+EXPECTED ANSWER: (1) Libya $7.88B (16.67%); (2) Sudan $6.59B (13.95%); (3) Algeria $5.11B (10.82%); (4) Morocco $5.10B (10.80%); (5) Kenya $3.73B (7.89%); (6) Tunisia $2.66B (5.63%).
+
+Q: Which country has the highest trade value with Egypt in Africa between 2019-2024?
+EXPECTED ANSWER: Libya — $7.88B, 16.67% share.
+
+Q: What is the total share of the top 3 trade partners (Libya, Sudan, and Algeria) between 2019-2024?
+EXPECTED ANSWER: 41.44% (16.67% + 13.95% + 10.82%).
+
+--- Neighboring partners of Egypt ---
+
+Q: What are Egypt's export values to its neighboring countries between 2019-2024?
+EXPECTED ANSWER: Libya: $7.40B (20.79%); Sudan: $4.60B (12.92%); Israel: $0 (0%); State of Palestine: $0 (0%).
+
+Q: What are Egypt's import values from its neighboring countries between 2019-2024?
+EXPECTED ANSWER: Sudan: $2.00B (17.09%); Libya: $481.43M (4.12%); Israel: $0 (0%); State of Palestine: $0 (0%).
+
+Q: What is the trade balance between Egypt and Libya between 2019-2024?
+EXPECTED ANSWER: Trade surplus for Egypt — exports $7.40B vs imports $481.43M, surplus approximately $6.92B.
+
+Q: What is the trade balance between Egypt and Sudan between 2019-2024?
+EXPECTED ANSWER: Trade surplus for Egypt — exports $4.60B vs imports $2.00B, surplus approximately $2.60B.
+
+Q: What is the trade relationship between Egypt and Israel between 2019-2024?
+EXPECTED ANSWER: No trade activity recorded — both import and export values are $0.
+
+Q: What is the trade relationship between Egypt and the State of Palestine between 2019-2024?
+EXPECTED ANSWER: No trade activity recorded — both import and export values are $0.
+
+--- High level product summaries ---
+
+Q: What are Egypt's overall exports and imports to/from Africa in 2019?
+EXPECTED ANSWER: Exports to Africa: $4,758,798,612 (49 partners, 1,649 products); Imports from Africa: $2,056,820,338 (47 partners, 1,025 products).
+
+Q: What are the exports and imports of products by stages of processing?
+EXPECTED ANSWER: Raw materials — exports $222.30M (4.00%), imports $502.74M (24.00%); Intermediate goods — exports $1.63B (34.00%), imports $547.38M (26.00%); Finished goods — exports $1.77B (37.00%), imports $647.73M (31.00%).
+
+--- Summary statistics ---
+
+Q: What are the key insights from Egypt's trade with Africa between 2019-2024?
+EXPECTED ANSWER: Top import from Africa: copper cathodes ($3.49B); top export to Africa: cement clinkers ($1.55B); largest African trading partner: Libya ($7.88B total trade); largest export destination: Libya ($7.40B); largest import source: Democratic Republic of Congo ($2.03B); strong ties with North African countries (Libya, Sudan, Algeria, Morocco, Tunisia); trade surpluses with most major African partners.
+
+Q: What percentage of Egypt's total African imports do the top 6 importing partners represent between 2019-2024?
+EXPECTED ANSWER: 72.31% (17.37% + 17.09% + 13.92% + 10.88% + 7.40% + 5.65%).
+
+Q: What percentage of Egypt's total African exports do the top 6 export destinations represent between 2019-2024?
+EXPECTED ANSWER: 70.51% (20.79% + 12.92% + 12.63% + 11.93% + 6.32% + 5.92%).
+
+Q: How does Egypt's population size in 2024 compare to other African countries?
+EXPECTED ANSWER: With 116,538,258 people in 2024, Egypt ranks third most populous in Africa, after Nigeria and Ethiopia.
+
+Q: What is the economic significance of Egypt's GDP of $389.06 billion in 2024?
+EXPECTED ANSWER: One of the largest economies in Africa; significant economic player in the Middle East and North Africa (MENA) region.
+
+Q: What are the key economic indicators that demonstrate Egypt's economic health in 2024?
+EXPECTED ANSWER: Large population base (116+ million); substantial GDP ($389.06 billion); high inflation rate (33.69%) indicating economic challenges; active participation in regional economic organizations; strategic geographic position connecting Africa and the Middle East; strong trade relationships across the African continent.
+
+Q: What does Egypt's membership in the Common Market for Eastern and Southern Africa indicate?
+EXPECTED ANSWER: Engagement with broader African economic cooperation beyond North Africa, extending to Eastern and Southern African regions.
+
+Q: What does Egypt's membership in the Community of Sahel-Saharan States indicate?
+EXPECTED ANSWER: Commitment to regional integration and cooperation with Sahel and Saharan countries, promoting economic development and stability in the region.
+
+Q: How does Egypt's high inflation rate of 33.69% in 2024 impact its economy?
+EXPECTED ANSWER: Indicates significant economic challenges including currency devaluation, rising cost of living, and potential impacts on purchasing power and economic stability.
+
+Q: What is the significance of Egypt's diverse trade portfolio with Africa between 2019-2024?
+EXPECTED ANSWER: Spanning raw materials to finished goods, Egypt acts as both supplier and consumer in the African market, contributing to regional economic integration and development.
+
+================================================================================
+QUESTIONS ONLY (copy to questions_smoke.txt or a dedicated smoke list)
+================================================================================
+What is Egypt's total population in 2024?
+What is Egypt's GDP in current US dollars for 2024?
+What is Egypt's inflation rate (GDP deflator) in 2024?
+What are the economic regions that Egypt belongs to?
+What is Egypt's geographic region classification?
+What is Egypt's GDP per capita in 2024?
+What is the most imported product by Egypt from Africa between 2019-2024, and what are its total import value and share?
+Which product ranks second in terms of import value from Africa to Egypt between 2019-2024, and what are its import statistics?
+What is the total import value and percentage share for "Cotton, not carded o..." (HS code 520100) between 2019-2024?
+How much did Egypt import of "Mammals; live, came..." (HS code 010613) from Africa between 2019-2024, and what was its contribution to total imports?
+Can you provide the import value and share for "Sesamum seeds" (HS code 120740) between 2019-2024?
+Among the listed top 6 products between 2019-2024, which one has the lowest import value, and what is that value?
+What is the combined share of the top two imported products by Egypt from Africa between 2019-2024?
+What is the difference in import value between the top imported product and the second most imported product between 2019-2024?
+What is the most exported product by Egypt to Africa between 2019-2024, and what are its export value and share?
+Which product ranks second in terms of export value from Egypt to Africa between 2019-2024?
+What is the export value and share for "Wheat or meslin flour" (HS code 110100) between 2019-2024?
+How much did Egypt export of "Mixed odoriferous su..." (HS code 330210) to Africa between 2019-2024?
+What is the export value and share for "Reception apparatus..." (HS code 852872) between 2019-2024?
+Among the top 6 exported products between 2019-2024, which one has the lowest export value?
+What is the combined share of the top two exported products by Egypt to Africa between 2019-2024?
+What are the top 6 trade products imported by Egypt from Africa between 2019-2024?
+Which product has the highest import value among the top 6 trade products between 2019-2024?
+What is the total share of the top 6 products in Egypt's total imports from Africa between 2019-2024?
+Which African country is Egypt's top importing partner between 2019-2024, and what are the trade figures?
+What is the import value and share for Sudan as Egypt's trading partner between 2019-2024?
+Which country ranks third in terms of import value to Egypt between 2019-2024?
+What are the import values for Zambia, Algeria, and South Africa as Egypt's trading partners between 2019-2024?
+What is the combined share of the top three importing partners (DRC, Sudan, and Kenya) between 2019-2024?
+Which African country is Egypt's top export destination between 2019-2024, and what are the export figures?
+What is the export value and share for Sudan as Egypt's trading partner between 2019-2024?
+Which country ranks third in terms of export value from Egypt between 2019-2024?
+What are the export values for Algeria, Tunisia, and Kenya as Egypt's trading partners between 2019-2024?
+What is the combined share of the top three export destinations (Libya, Sudan, and Morocco) between 2019-2024?
+What are Egypt's top 6 trade partners in Africa based on import values between 2019-2024?
+Which country has the highest trade value with Egypt in Africa between 2019-2024?
+What is the total share of the top 3 trade partners (Libya, Sudan, and Algeria) between 2019-2024?
+What are Egypt's export values to its neighboring countries between 2019-2024?
+What are Egypt's import values from its neighboring countries between 2019-2024?
+What is the trade balance between Egypt and Libya between 2019-2024?
+What is the trade balance between Egypt and Sudan between 2019-2024?
+What is the trade relationship between Egypt and Israel between 2019-2024?
+What is the trade relationship between Egypt and the State of Palestine between 2019-2024?
+What are Egypt's overall exports and imports to/from Africa in 2019?
+What are the exports and imports of products by stages of processing?
+What are the key insights from Egypt's trade with Africa between 2019-2024?
+What percentage of Egypt's total African imports do the top 6 importing partners represent between 2019-2024?
+What percentage of Egypt's total African exports do the top 6 export destinations represent between 2019-2024?
+How does Egypt's population size in 2024 compare to other African countries?
+What is the economic significance of Egypt's GDP of $389.06 billion in 2024?
+What are the key economic indicators that demonstrate Egypt's economic health in 2024?
+What does Egypt's membership in the Common Market for Eastern and Southern Africa indicate?
+What does Egypt's membership in the Community of Sahel-Saharan States indicate?
+How does Egypt's high inflation rate of 33.69% in 2024 impact its economy?
+What is the significance of Egypt's diverse trade portfolio with Africa between 2019-2024?
+
+================================================================================
+PAGE: General knowledge — football, news & world facts (Kora AI smoke)
+================================================================================
+Reference dataset for Kora AI evaluation: well-known football facts, major news/world events,
+and general knowledge. Answers are stable factual references (not live scores or breaking news).
+Use for off-topic / general-knowledge smoke against the AI Assistant (Kora).
+
+--- Section 1: Football — World Cup & major competitions ---
+
+Q: Which country won the FIFA World Cup 2022?
+EXPECTED ANSWER: Argentina (beat France on penalties in the final in Qatar).
+
+Q: Who scored the winning penalty for Argentina in the 2022 World Cup final shootout?
+EXPECTED ANSWER: Gonzalo Montiel (Argentina beat France 4–2 on penalties after 3–3).
+
+Q: How many FIFA World Cups has Brazil won?
+EXPECTED ANSWER: 5 (1958, 1962, 1970, 1994, 2002).
+
+Q: Which country hosted the FIFA World Cup 2018?
+EXPECTED ANSWER: Russia.
+
+Q: Which African country first reached a FIFA World Cup semi-final?
+EXPECTED ANSWER: Morocco (2022 World Cup in Qatar).
+
+Q: Who won the UEFA Champions League in 2024?
+EXPECTED ANSWER: Real Madrid (beat Borussia Dortmund in the final).
+
+Q: Which club has won the most UEFA Champions League / European Cup titles?
+EXPECTED ANSWER: Real Madrid (15 titles).
+
+Q: Who won the Ballon d'Or in 2023?
+EXPECTED ANSWER: Lionel Messi.
+
+Q: Who won the Ballon d'Or in 2024?
+EXPECTED ANSWER: Rodri (Manchester City / Spain).
+
+Q: In which year did Senegal win the Africa Cup of Nations for the first time?
+EXPECTED ANSWER: 2021 (tournament played in 2022; final vs Egypt).
+
+--- Section 2: Football — players, clubs & records ---
+
+Q: Which player is widely credited with the most official career goals in men's football?
+EXPECTED ANSWER: Cristiano Ronaldo (over 900 official career goals across club and country).
+
+Q: For which national team does Mohamed Salah play?
+EXPECTED ANSWER: Egypt.
+
+Q: Which English Premier League club is nicknamed "The Red Devils"?
+EXPECTED ANSWER: Manchester United.
+
+Q: What is the home stadium of FC Barcelona?
+EXPECTED ANSWER: Camp Nou (Spotify Camp Nou / Estadi Olímpic Lluís Companys used during renovation periods).
+
+Q: Which Moroccan club is historically one of the most successful in CAF competitions, based in Casablanca?
+EXPECTED ANSWER: Wydad Athletic Club (WAC) and/or Raja Club Athletic (both Casablanca giants; Wydad has multiple CAF Champions League titles).
+
+Q: Who scored the "Hand of God" goal at the 1986 World Cup?
+EXPECTED ANSWER: Diego Maradona (Argentina vs England).
+
+Q: What colour are the home shirts of the Brazil national football team?
+EXPECTED ANSWER: Yellow (with green trim; traditionally paired with blue shorts).
+
+Q: How long is a standard football (soccer) match, excluding added time?
+EXPECTED ANSWER: 90 minutes (two halves of 45 minutes).
+
+Q: How many players start on the pitch for one team in a standard football match?
+EXPECTED ANSWER: 11 (including the goalkeeper).
+
+Q: What does VAR stand for in football?
+EXPECTED ANSWER: Video Assistant Referee.
+
+--- Section 3: News & world events (stable facts) ---
+
+Q: Which year did the COVID-19 pandemic lead the WHO to declare a global pandemic?
+EXPECTED ANSWER: 2020 (11 March 2020).
+
+Q: Who was elected President of the United States in November 2024?
+EXPECTED ANSWER: Donald Trump.
+
+Q: Which country left the European Union in 2020 (Brexit)?
+EXPECTED ANSWER: The United Kingdom.
+
+Q: What was the host city of the 2024 Summer Olympics?
+EXPECTED ANSWER: Paris, France.
+
+Q: Which country invaded Ukraine in February 2022?
+EXPECTED ANSWER: Russia.
+
+Q: Who is the Secretary-General of the United Nations (as of 2024–2026)?
+EXPECTED ANSWER: António Guterres.
+
+Q: Which social network did Elon Musk acquire in 2022 and later rebrand as X?
+EXPECTED ANSWER: Twitter.
+
+Q: What major global sporting event did Qatar host in late 2022?
+EXPECTED ANSWER: The FIFA World Cup 2022.
+
+Q: Which virus disease outbreak began in West Africa and became a major international health emergency in 2014–2016?
+EXPECTED ANSWER: Ebola.
+
+Q: In which city were the 2020 Summer Olympics actually held in 2021?
+EXPECTED ANSWER: Tokyo, Japan.
+
+--- Section 4: Africa & Morocco — news / sports context ---
+
+Q: Which Moroccan city co-hosted matches at the 2022 FIFA World Cup? (trick / clarification)
+EXPECTED ANSWER: None — Morocco played in Qatar as a national team; Morocco did not host 2022 World Cup matches. (Morocco is a candidate/host pathway for future tournaments, e.g. 2030 with Spain and Portugal.)
+
+Q: Which three countries were selected to co-host the FIFA World Cup 2030?
+EXPECTED ANSWER: Spain, Portugal, and Morocco (with anniversary matches also planned in South America).
+
+Q: What is the capital of Morocco?
+EXPECTED ANSWER: Rabat.
+
+Q: Which Moroccan player scored a memorable goal for Morocco against Portugal in the 2022 World Cup quarter-final?
+EXPECTED ANSWER: Youssef En-Nesyri (header; Morocco won 1–0).
+
+Q: Who coached Morocco at the 2022 FIFA World Cup?
+EXPECTED ANSWER: Walid Regragui.
+
+Q: Which African country won AFCON 2023 (tournament held in 2024 in Côte d'Ivoire)?
+EXPECTED ANSWER: Côte d'Ivoire (hosts; beat Nigeria in the final).
+
+Q: What is the nickname of the Morocco national football team?
+EXPECTED ANSWER: Atlas Lions (أسود الأطلس).
+
+Q: Which Egyptian club is nicknamed "The Red Devils" of Egyptian football and is based in Cairo?
+EXPECTED ANSWER: Al Ahly SC.
+
+--- Section 5: Mixed general knowledge (news-adjacent) ---
+
+Q: What does GDP stand for in economics and news reporting?
+EXPECTED ANSWER: Gross Domestic Product.
+
+Q: Which organization sets global oil production quotas among many major producers and is often in the news as OPEC?
+EXPECTED ANSWER: Organization of the Petroleum Exporting Countries (OPEC).
+
+Q: What is the currency of the European Union's eurozone?
+EXPECTED ANSWER: The euro (EUR).
+
+Q: Which planet is known as the Red Planet?
+EXPECTED ANSWER: Mars.
+
+Q: Who wrote the play Romeo and Juliet?
+EXPECTED ANSWER: William Shakespeare.
+
+Q: What is the largest ocean on Earth?
+EXPECTED ANSWER: The Pacific Ocean.
+
+Q: Which gas do plants absorb from the air during photosynthesis?
+EXPECTED ANSWER: Carbon dioxide (CO₂).
+
+Q: In computing news, what does AI commonly stand for?
+EXPECTED ANSWER: Artificial Intelligence.
+
+Q: What is the chemical symbol for gold?
+EXPECTED ANSWER: Au.
+
+Q: How many continents are there on Earth in the most common school model?
+EXPECTED ANSWER: 7 (Africa, Antarctica, Asia, Europe, North America, South America, Australia/Oceania).
+
+================================================================================
+QUESTIONS ONLY (copy to questions_smoke.txt or a dedicated smoke list)
+================================================================================
+Which country won the FIFA World Cup 2022?
+Who scored the winning penalty for Argentina in the 2022 World Cup final shootout?
+How many FIFA World Cups has Brazil won?
+Which country hosted the FIFA World Cup 2018?
+Which African country first reached a FIFA World Cup semi-final?
+Who won the UEFA Champions League in 2024?
+Which club has won the most UEFA Champions League / European Cup titles?
+Who won the Ballon d'Or in 2023?
+Who won the Ballon d'Or in 2024?
+In which year did Senegal win the Africa Cup of Nations for the first time?
+Which player is widely credited with the most official career goals in men's football?
+For which national team does Mohamed Salah play?
+Which English Premier League club is nicknamed "The Red Devils"?
+What is the home stadium of FC Barcelona?
+Which Moroccan club is historically one of the most successful in CAF competitions, based in Casablanca?
+Who scored the "Hand of God" goal at the 1986 World Cup?
+What colour are the home shirts of the Brazil national football team?
+How long is a standard football (soccer) match, excluding added time?
+How many players start on the pitch for one team in a standard football match?
+What does VAR stand for in football?
+Which year did the COVID-19 pandemic lead the WHO to declare a global pandemic?
+Who was elected President of the United States in November 2024?
+Which country left the European Union in 2020 (Brexit)?
+What was the host city of the 2024 Summer Olympics?
+Which country invaded Ukraine in February 2022?
+Who is the Secretary-General of the United Nations (as of 2024–2026)?
+Which social network did Elon Musk acquire in 2022 and later rebrand as X?
+What major global sporting event did Qatar host in late 2022?
+Which virus disease outbreak began in West Africa and became a major international health emergency in 2014–2016?
+In which city were the 2020 Summer Olympics actually held in 2021?
+Which Moroccan city co-hosted matches at the 2022 FIFA World Cup? (trick / clarification)
+Which three countries were selected to co-host the FIFA World Cup 2030?
+What is the capital of Morocco?
+Which Moroccan player scored a memorable goal for Morocco against Portugal in the 2022 World Cup quarter-final?
+Who coached Morocco at the 2022 FIFA World Cup?
+Which African country won AFCON 2023 (tournament held in 2024 in Côte d'Ivoire)?
+What is the nickname of the Morocco national football team?
+Which Egyptian club is nicknamed "The Red Devils" of Egyptian football and is based in Cairo?
+What does GDP stand for in economics and news reporting?
+Which organization sets global oil production quotas among many major producers and is often in the news as OPEC?
+What is the currency of the European Union's eurozone?
+Which planet is known as the Red Planet?
+Who wrote the play Romeo and Juliet?
+What is the largest ocean on Earth?
+Which gas do plants absorb from the air during photosynthesis?
+In computing news, what does AI commonly stand for?
+What is the chemical symbol for gold?
+How many continents are there on Earth in the most common school model?
+
+
+================================================================================
+PAGE: Direct Trade — African Marketplace suppliers & logistics (2019-2024)
+================================================================================
+Reference dataset for Kora AI evaluation: direct trade supplier recommendations for agricultural products, industrial materials, consumer goods, specialized products, and logistics/shipping. USD to MAD conversion rate used in source data: approximately 1 USD = 10 MAD. All prices are approximate and subject to market fluctuations.
+
+--- Agricultural products ---
+
+Q: Give me the best rice supplier for import to Morocco
+EXPECTED ANSWER: Egypt (Premium Basmati): $450-500 per ton (4,500-5,000 MAD); Madagascar (Long grain): $420-480 per ton (4,200-4,800 MAD); Senegal (Broken rice): $380-420 per ton (3,800-4,200 MAD).
+
+Q: Find me the best sugar supplier for export from Algeria
+EXPECTED ANSWER: Algeria (White refined): $450-500 per ton (4,500-5,000 MAD); Algeria (Crystal sugar): $420-480 per ton (4,200-4,800 MAD); Algeria (Beet sugar): $400-450 per ton (4,000-4,500 MAD).
+
+Q: Search for suppliers of wheat for trade with Tunisia
+EXPECTED ANSWER: South Africa (Hard wheat): $280-320 per ton (2,800-3,200 MAD); Egypt (Durum wheat): $300-350 per ton (3,000-3,500 MAD); Morocco (Soft wheat): $260-300 per ton (2,600-3,000 MAD).
+
+Q: Show me the best coffee supplier for import to Nigeria
+EXPECTED ANSWER: Ethiopia (Arabica): $2,800-3,200 per ton (28,000-32,000 MAD); Kenya (Robusta): $2,600-3,000 per ton (26,000-30,000 MAD); Uganda (Mixed blend): $2,400-2,800 per ton (24,000-28,000 MAD).
+
+Q: Look for the best palm oil supplier for domestic trade in Ghana
+EXPECTED ANSWER: Ghana (Red palm oil): $800-900 per ton (8,000-9,000 MAD); Ghana (Refined): $850-950 per ton (8,500-9,500 MAD); Ghana (Crude): $750-850 per ton (7,500-8,500 MAD).
+
+--- Industrial materials ---
+
+Q: Find suppliers of steel for import to Egypt
+EXPECTED ANSWER: South Africa (Carbon steel): $600-700 per ton (6,000-7,000 MAD); Morocco (Reinforcement bars): $550-650 per ton (5,500-6,500 MAD); Algeria (Structural steel): $580-680 per ton (5,800-6,800 MAD).
+
+Q: Search for cement suppliers for re-export from Libya
+EXPECTED ANSWER: Egypt (Portland cement): $80-90 per ton (800-900 MAD); Morocco (White cement): $85-95 per ton (850-950 MAD); Tunisia (Ordinary cement): $75-85 per ton (750-850 MAD).
+
+Q: Show me fertilizer suppliers for wholesale in Kenya
+EXPECTED ANSWER: South Africa (NPK 15-15-15): $400-500 per ton (4,000-5,000 MAD); Egypt (Urea 46%): $350-450 per ton (3,500-4,500 MAD); Morocco (DAP): $380-480 per ton (3,800-4,800 MAD).
+
+Q: Give me the best sunflower oil supplier for export to South Africa
+EXPECTED ANSWER: Egypt (Refined oil): $1,200-1,400 per ton (12,000-14,000 MAD); Morocco (Cold pressed): $1,100-1,300 per ton (11,000-13,000 MAD); Tunisia (Virgin oil): $1,000-1,200 per ton (10,000-12,000 MAD).
+
+Q: Give me the best maize supplier for export to Zambia
+EXPECTED ANSWER: South Africa (Yellow maize): $250-300 per ton (2,500-3,000 MAD); Zimbabwe (White maize): $280-330 per ton (2,800-3,300 MAD); Malawi (Mixed grade): $260-310 per ton (2,600-3,100 MAD).
+
+--- Consumer goods ---
+
+Q: Give me the best electronics supplier for export to Morocco
+EXPECTED ANSWER: South Africa (Mobile phones): $150-200 per unit (1,500-2,000 MAD); Egypt (Laptops): $400-600 per unit (4,000-6,000 MAD); Tunisia (Tablets): $200-300 per unit (2,000-3,000 MAD).
+
+Q: Give me the best clothing supplier for export to Algeria
+EXPECTED ANSWER: Morocco (Traditional wear): $15-25 per piece (150-250 MAD); Tunisia (Fashion items): $20-30 per piece (200-300 MAD); Egypt (Cotton garments): $12-20 per piece (120-200 MAD).
+
+Q: Give me the best home decor supplier for export to Nigeria
+EXPECTED ANSWER: Morocco (Ceramic tiles): $8-12 per sqm (80-120 MAD); Egypt (Furniture): $200-400 per piece (2,000-4,000 MAD); South Africa (Lighting): $50-100 per unit (500-1,000 MAD).
+
+Q: Give me the best baby products supplier for export to Ghana
+EXPECTED ANSWER: South Africa (Baby food): $3-5 per kg (30-50 MAD); Morocco (Baby clothes): $8-15 per piece (80-150 MAD); Egypt (Toys): $10-20 per unit (100-200 MAD).
+
+Q: Give me the best sports equipment supplier for export to Kenya
+EXPECTED ANSWER: South Africa (Soccer balls): $15-25 per unit (150-250 MAD); Morocco (Camping gear): $50-100 per set (500-1,000 MAD); Egypt (Fitness equipment): $100-300 per unit (1,000-3,000 MAD).
+
+--- Specialized products ---
+
+Q: Give me the best organic products supplier for export to Europe
+EXPECTED ANSWER: Morocco (Organic argan oil): $50-80 per liter (500-800 MAD); Egypt (Organic cotton): $3-5 per kg (30-50 MAD); South Africa (Organic wine): $10-20 per bottle (100-200 MAD).
+
+Q: Give me the best renewable energy supplier for export to West Africa
+EXPECTED ANSWER: Morocco (Solar panels): $0.30-0.50 per watt (3-5 MAD); South Africa (Wind turbines): $1,000-2,000 per kW (10,000-20,000 MAD); Egypt (Batteries): $200-400 per kWh (2,000-4,000 MAD).
+
+Q: Give me the best pharmaceutical supplier for export to East Africa
+EXPECTED ANSWER: South Africa (Generic medicines): $5-15 per unit (50-150 MAD); Morocco (Medical devices): $100-500 per unit (1,000-5,000 MAD); Egypt (Vaccines): $2-8 per dose (20-80 MAD).
+
+Q: Give me the best automotive parts supplier for export to North Africa
+EXPECTED ANSWER: Morocco (Car components): $50-200 per part (500-2,000 MAD); South Africa (Tires): $80-150 per tire (800-1,500 MAD); Egypt (Engine parts): $100-500 per unit (1,000-5,000 MAD).
+
+Q: Give me the best construction materials supplier for export to Central Africa
+EXPECTED ANSWER: Morocco (Building blocks): $0.50-1.00 per block (5-10 MAD); South Africa (Roofing materials): $15-30 per sqm (150-300 MAD); Egypt (Pipes and fittings): $5-15 per meter (50-150 MAD).
+
+--- Logistics and shipping ---
+
+Q: Give me the best shipping company for exports from Morocco to West Africa
+EXPECTED ANSWER: CMA CGM: $800-1,200 per container (8,000-12,000 MAD); MSC: $750-1,100 per container (7,500-11,000 MAD); Maersk: $900-1,300 per container (9,000-13,000 MAD).
+
+Q: Give me the best air freight company for urgent exports from South Africa
+EXPECTED ANSWER: DHL: $8-15 per kg (80-150 MAD); FedEx: $10-18 per kg (100-180 MAD); UPS: $9-16 per kg (90-160 MAD).
+
+Q: Give me the best land transport company for exports from Egypt to Libya
+EXPECTED ANSWER: Egyptian Transport Co: $0.20-0.30 per km per ton (2-3 MAD); Libyan Freight: $0.25-0.35 per km per ton (2.5-3.5 MAD); Mediterranean Logistics: $0.22-0.32 per km per ton (2.2-3.2 MAD).
+
+================================================================================
+QUESTIONS ONLY (copy to questions_smoke.txt or a dedicated smoke list)
+================================================================================
+Give me the best rice supplier for import to Morocco
+Find me the best sugar supplier for export from Algeria
+Search for suppliers of wheat for trade with Tunisia
+Show me the best coffee supplier for import to Nigeria
+Look for the best palm oil supplier for domestic trade in Ghana
+Find suppliers of steel for import to Egypt
+Search for cement suppliers for re-export from Libya
+Show me fertilizer suppliers for wholesale in Kenya
+Give me the best sunflower oil supplier for export to South Africa
+Give me the best maize supplier for export to Zambia
+Give me the best electronics supplier for export to Morocco
+Give me the best clothing supplier for export to Algeria
+Give me the best home decor supplier for export to Nigeria
+Give me the best baby products supplier for export to Ghana
+Give me the best sports equipment supplier for export to Kenya
+Give me the best organic products supplier for export to Europe
+Give me the best renewable energy supplier for export to West Africa
+Give me the best pharmaceutical supplier for export to East Africa
+Give me the best automotive parts supplier for export to North Africa
+Give me the best construction materials supplier for export to Central Africa
+Give me the best shipping company for exports from Morocco to West Africa
+Give me the best air freight company for urgent exports from South Africa
+Give me the best land transport company for exports from Egypt to Libya
+
+
+================================================================================
+PAGE: ATG Subscription — packages, pricing, features & add-ons (reference catalogs)
+================================================================================
+Reference dataset for Kora AI evaluation: package catalog and pricing, TRADAR/MANSA/ATG CONNECT feature matrices per package (TEST, hamza, free publication, PACKE CASE MANSA, ATG for corporates, CORPORATE SPONSOR, Enterprise 22, BASIC), cross-package comparisons, and Add-ons Management (Operations Management > Add-on Management, staging …/workspace/addons-management). Prices and entitlements should be verified against live workspace/checkout when staging differs.
+
+--- General catalog & pricing ---
+
+Q: What packages can I choose from on ATG?
+EXPECTED ANSWER: Examples from reference catalogs include hamza, free publication package, SPECIAL PACKAGE, TEST, PACKE CASE MANSA, ATG for corporates, CORPORATE SPONSOR, Enterprise 22, and BASIC. The exact list depends on what is published for your workspace.
+
+Q: What three products do I get with a standard ATG package?
+EXPECTED ANSWER: TRADAR, MANSA, and ATG CONNECT (each with its own "key features" in the admin reference).
+
+Q: How much does the hamza package cost?
+EXPECTED ANSWER: About USD 2,322,178 on some cards (wording varied: per user, per year, or per unit). The AI should align with your live pricing or say to check the app.
+
+Q: What is the price of the PACKE CASE MANSA package?
+EXPECTED ANSWER: Around USD 12,000 (per user / year / unit depending on the card label).
+
+Q: How much does CORPORATE SPONSOR cost?
+EXPECTED ANSWER: USD 10,000 per user (or per year on some card views) in reference screenshots.
+
+Q: Is there a free or zero-dollar package on ATG?
+EXPECTED ANSWER: Yes — e.g. SPECIAL PACKAGE or Enterprise 22 showed USD 0 on some cards. Confirm in current pricing.
+
+Q: Does SPECIAL PACKAGE cost anything?
+EXPECTED ANSWER: Shown at USD 0 per user in one catalog view — verify at checkout.
+
+Q: Why would one package card show two different prices?
+EXPECTED ANSWER: Some cards had different amounts in top vs bottom banners (e.g. list vs promotional). Use checkout or contract price, or ask support.
+
+Q: What prices appear near other cards when viewing ATG for corporates MANSA?
+EXPECTED ANSWER: Other cards showed USD 10,000 per user and USD 125 per user in the blurred background.
+
+Q: What is the difference between a package and an add-on?
+EXPECTED ANSWER: A package is the bundled subscription (TRADAR + MANSA + ATG CONNECT). Add-ons are extra modules or capabilities—either under TRADAR/MANSA feature tables or a separate add-ons catalog, depending on product wording.
+
+Q: Where can I see or change my subscription as a subscriber?
+EXPECTED ANSWER: Use subscriber account or subscription/billing pages in the portal—not the admin "Operation Management → Subscription" path, which is for staff.
+
+Q: Can I upgrade from BASIC to CORPORATE SPONSOR?
+EXPECTED ANSWER: If both exist in your catalog, upgrades are usually via subscription management, billing, or sales/support—the AI should not invent a specific button.
+
+--- TEST, hamza, free publication, PACKE CASE MANSA ---
+
+Q: What does the TEST package include?
+EXPECTED ANSWER: TRADAR, MANSA, and ATG CONNECT. TRADAR: modules like "aad" (PRODUCT AND SERVICE DATA, UNTAPPED POTENTIAL) and "Publications" (AFRICAN COUNTRY PROFILES, AFRICA INDUSTRY OUTLOOKS, +3 more). MANSA: CDD view/download 13, unlimited users in the reference config. ATG CONNECT: Freight & logistics hub (Freight Opportunities, Post Freight Request).
+
+Q: What add-ons or extra TRADAR modules does the TEST package include?
+EXPECTED ANSWER: "Data" entries plus modules "aad" and "Publications" with named feature tags and "+3" for extra publications features.
+
+Q: Does the TEST package include African country profiles?
+EXPECTED ANSWER: Under TEST–TRADAR, the Publications module included AFRICAN COUNTRY PROFILES and AFRICA INDUSTRY OUTLOOKS (with more behind +3).
+
+Q: What add-ons are on the free publication package TRADAR?
+EXPECTED ANSWER: Module named "addon" with PRODUCT AND SERVICE DATA, UNTAPPED POTENTIAL, and +19 additional features.
+
+Q: What investment features does the free publication package include on ATG CONNECT?
+EXPECTED ANSWER: Investment Capital Flows: Investment Provider and Investment Opportunities.
+
+Q: How many users can the hamza package support on MANSA?
+EXPECTED ANSWER: Reference config: max 8 users, "Unlimited" unchecked.
+
+Q: What are the CDD limits for hamza on MANSA?
+EXPECTED ANSWER: CDD view limit 2, CDD download limit 2 in the reference hamza–MANSA modal.
+
+Q: What are the MANSA limits for the free publication package?
+EXPECTED ANSWER: CDD view 10, CDD download 10, max users 10, "Unlimited" unchecked.
+
+Q: How many requests for "Consume CDD Profile history changes APIs" on the free publication package?
+EXPECTED ANSWER: 10 requests in the reference table.
+
+Q: Is the TEST package unlimited for team size on MANSA?
+EXPECTED ANSWER: Yes in the reference TEST–MANSA screen—"Unlimited" was checked for max users.
+
+Q: What logistics features does the TEST package include on ATG CONNECT?
+EXPECTED ANSWER: Freight & logistics hub: Freight Opportunities and Post Freight Request.
+
+Q: What analytics does PACKE CASE MANSA include on TRADAR?
+EXPECTED ANSWER: Module "company analytics": PRODUCT AND SERVICE DATA, UNTAPPED POTENTIAL, +26 more.
+
+Q: What does PACKE CASE MANSA include on ATG CONNECT?
+EXPECTED ANSWER: Investment Capital Flows with Investment Opportunities.
+
+Q: Which packages show investment opportunities on ATG CONNECT?
+EXPECTED ANSWER: Several—e.g. free publication package (Provider + Opportunities), PACKE CASE MANSA (Opportunities), Enterprise 22, CORPORATE SPONSOR (see their module tables).
+
+--- ATG for corporates — MANSA ---
+
+Q: What is the CDD view limit for ATG for corporates on MANSA?
+EXPECTED ANSWER: 10.
+
+Q: What is the CDD download limit for ATG for corporates on MANSA?
+EXPECTED ANSWER: 10.
+
+Q: Is there a user cap for ATG for corporates MANSA?
+EXPECTED ANSWER: No numeric cap in the reference screen—"Unlimited" was checked and the max-users field was empty.
+
+Q: What MANSA features are listed for ATG for corporates in Package Features?
+EXPECTED ANSWER: Browse CDD Information; Export CDD Information; Receive CDD Profile Instant Notification on Publishing; Export Investment Information; Browse Investment Information. "No of Requests" showed "-" for all in that view.
+
+Q: Can I add more API features to ATG for corporates MANSA as a subscriber?
+EXPECTED ANSWER: The admin modal shows "Add API feature"—subscribers normally cannot; they would request changes via support or account manager. The AI should not imply subscribers get that admin button.
+
+Q: How do admins save MANSA limit changes in the reference UI?
+EXPECTED ANSWER: Admin UI uses an "Update" button; subscribers do not edit these fields directly in that modal.
+
+--- CORPORATE SPONSOR — ATG CONNECT ---
+
+Q: What modules does CORPORATE SPONSOR include on ATG CONNECT?
+EXPECTED ANSWER: Tenders; Investment Capital Flows; Access to finance; Freight & logistics hub.
+
+Q: What tender features does CORPORATE SPONSOR offer on ATG CONNECT?
+EXPECTED ANSWER: Tenders Opportunities and Post Tenders Request.
+
+Q: What investment features does CORPORATE SPONSOR ATG CONNECT include?
+EXPECTED ANSWER: Investment Provider, Investment Opportunities, and +2 additional features under Investment Capital Flows.
+
+Q: What does Access to finance include for CORPORATE SPONSOR?
+EXPECTED ANSWER: Access To Finance, Financing Opportunities, and +1 more feature.
+
+Q: What freight features does CORPORATE SPONSOR ATG CONNECT include?
+EXPECTED ANSWER: Freight Provider, Freight Opportunities, and +1 more under Freight & logistics hub.
+
+--- Enterprise 22 — TRADAR ---
+
+Q: What TRADAR modules does Enterprise 22 include?
+EXPECTED ANSWER: Product Analytics; Regulations; Country Analytics; Publications.
+
+Q: What features are under Product Analytics for Enterprise 22 TRADAR?
+EXPECTED ANSWER: PRODUCT AND SERVICE DATA and UNTAPPED POTENTIAL.
+
+Q: What features are under Regulations for Enterprise 22 TRADAR?
+EXPECTED ANSWER: REGULATIONS and SEARCH REGULATIONS.
+
+Q: What features are under Country Analytics for Enterprise 22?
+EXPECTED ANSWER: COUNTRY PRODUCT and COUNTRY SERVICES.
+
+Q: What publications features does Enterprise 22 TRADAR include?
+EXPECTED ANSWER: AFRICA INDUSTRY OUTLOOKS and AFRICA INSIGHT.
+
+Q: Which module contains Africa Insight on Enterprise 22?
+EXPECTED ANSWER: Publications.
+
+Q: Is Search Regulations included in Enterprise 22?
+EXPECTED ANSWER: Yes—under the Regulations module.
+
+--- Enterprise 22 — MANSA ---
+
+Q: What is the max number of users for Enterprise 22 MANSA?
+EXPECTED ANSWER: 5; "Unlimited" was unchecked.
+
+Q: What are the CDD view and download limits for Enterprise 22 MANSA?
+EXPECTED ANSWER: Both are 5.
+
+Q: How many API requests for Consume Search Publications APIs on Enterprise 22 MANSA?
+EXPECTED ANSWER: 10.
+
+Q: How many requests for Consume CDD Profile APIs on Enterprise 22 MANSA?
+EXPECTED ANSWER: 10.
+
+Q: How many requests for Consume CDD Profile history changes APIs on Enterprise 22 MANSA?
+EXPECTED ANSWER: 10.
+
+Q: How many requests for Consume Contributor lookup APIs on Enterprise 22 MANSA?
+EXPECTED ANSWER: 10.
+
+Q: Does Enterprise 22 MANSA use the same request quota for all four API features shown?
+EXPECTED ANSWER: Yes—each of the four listed features had 10 requests in the reference table.
+
+--- Enterprise 22 — ATG CONNECT ---
+
+Q: What ATG CONNECT modules does Enterprise 22 include?
+EXPECTED ANSWER: Investment Capital Flows and Tenders.
+
+Q: What investment tags appear on Enterprise 22 ATG CONNECT?
+EXPECTED ANSWER: Investment Provider and Investment Opportunities.
+
+Q: What tender features does Enterprise 22 ATG CONNECT include besides Tenders Opportunities and Post Tenders Request?
+EXPECTED ANSWER: A "+1" badge indicates one additional tender feature not fully listed by name.
+
+--- BASIC — TRADAR ---
+
+Q: Does the BASIC TRADAR package give full access to everything?
+EXPECTED ANSWER: The Data section states it "Demonstrates the Digital Portal capabilities but does not grant full access to features."
+
+Q: What is listed in the Data section for BASIC TRADAR?
+EXPECTED ANSWER: The disclaimer above plus items like Test, test two, test three, test three 2 tt (staging/test labels).
+
+Q: What modules are in BASIC TRADAR Package Features?
+EXPECTED ANSWER: Trade Search test; Trade Regulations Up; Complimentary access to 6 TRIN publications; Webinars; Newsletter.
+
+Q: What features are under Trade Search test for BASIC?
+EXPECTED ANSWER: PRODUCT ANALYTICS, PRODUCT AND SERVICE DATA, and +14 more features.
+
+Q: What features are under Trade Regulations Up on BASIC TRADAR?
+EXPECTED ANSWER: REGULATIONS and SEARCH REGULATIONS.
+
+Q: What publications come with BASIC TRADAR complimentary TRIN access?
+EXPECTED ANSWER: AFRICAN COUNTRY PROFILES, AFRICA INDUSTRY OUTLOOKS, and +3 more.
+
+Q: Does BASIC TRADAR include webinars?
+EXPECTED ANSWER: Yes—module Webinars: Trade Events, Complimentary access to virtual webinars, +1 more.
+
+Q: Does BASIC include a newsletter?
+EXPECTED ANSWER: Yes—Newsletter module: Free access to TRIN Newsletter.
+
+Q: How many extra features are behind plus fourteen on BASIC Trade Search test?
+EXPECTED ANSWER: Fourteen additional features beyond the two named tags.
+
+--- BASIC — MANSA ---
+
+Q: What is the CDD view limit for BASIC MANSA?
+EXPECTED ANSWER: 10.
+
+Q: What is the CDD download limit for BASIC MANSA?
+EXPECTED ANSWER: 10.
+
+Q: How many users does BASIC MANSA allow?
+EXPECTED ANSWER: Max 3 users; "Unlimited" unchecked.
+
+Q: List the MANSA package features shown for BASIC.
+EXPECTED ANSWER: Export Investment Information; Browse CDD Information; Browse Investment Information; Receive CDD Profile Instant Notification on Publishing; Export CDD Information—with "-" for No of Requests in that view.
+
+--- BASIC — ATG CONNECT ---
+
+Q: What modules does BASIC ATG CONNECT include?
+EXPECTED ANSWER: Tenders (listed twice in the table with the same feature tags) and Freight & logistics hub.
+
+Q: What tender features does BASIC ATG CONNECT show?
+EXPECTED ANSWER: Tenders Opportunities, Post Tenders Request, and +1 more (per row).
+
+Q: What freight features does BASIC ATG CONNECT include?
+EXPECTED ANSWER: Freight Provider, Freight Opportunities, and +1 more.
+
+--- Cross-package comparisons ---
+
+Q: Who allows more MANSA users BASIC or Enterprise 22?
+EXPECTED ANSWER: Enterprise 22 allows 5; BASIC allows 3 in the reference configs—so Enterprise 22 in that snapshot.
+
+Q: Who has stricter CDD view limits on MANSA Enterprise 22 or BASIC?
+EXPECTED ANSWER: Enterprise 22 used 5 for view and download; BASIC used 10—so Enterprise 22 was stricter (lower limits).
+
+Q: Does ATG for corporates or BASIC have unlimited MANSA users?
+EXPECTED ANSWER: ATG for corporates MANSA had Unlimited checked; BASIC MANSA had max 3 with Unlimited unchecked.
+
+Q: Which package shows explicit API request counts of ten on MANSA?
+EXPECTED ANSWER: Enterprise 22 MANSA listed four APIs each at 10 requests; ATG for corporates MANSA showed "-" for requests on the listed browse/export features in the reference view.
+
+Q: Does CORPORATE SPONSOR ATG CONNECT include tenders and finance?
+EXPECTED ANSWER: Yes—Tenders module and Access to finance module are both present.
+
+Q: Does Enterprise 22 ATG CONNECT include both investments and tenders?
+EXPECTED ANSWER: Yes—Investment Capital Flows and Tenders modules.
+
+Q: Is Country Analytics on Enterprise 22 the same as Trade Search test on BASIC?
+EXPECTED ANSWER: No—different module names and feature sets; Enterprise 22 has COUNTRY PRODUCT/COUNTRY SERVICES; BASIC has PRODUCT ANALYTICS / PRODUCT AND SERVICE DATA with +14.
+
+Q: What is included in ATG for corporates on TRADAR?
+EXPECTED ANSWER: Trade Search, Trade Regulations, TRIN publications, Webinars, Newsletter, TEST PLAN, plus Data items (supply chain, company/price info, regulatory info, etc.).
+
+Q: As a buyer what do I get on MANSA with ATG for corporates?
+EXPECTED ANSWER: CDD view and download limits of 10, unlimited users in the reference config, and features: browse and export CDD information, browse and export investment information, and instant notification when a CDD profile is published.
+
+Q: Does BASIC ATG CONNECT list the Tenders module more than once?
+EXPECTED ANSWER: Yes—the reference table showed two identical Tenders rows with the same feature tags (likely a UI duplication; subscribers should confirm with support if pricing or entitlements depend on it).
+
+Q: Is Enterprise 22 TRADAR simpler than BASIC TRADAR in module count?
+EXPECTED ANSWER: Enterprise 22 showed four modules (Product Analytics, Regulations, Country Analytics, Publications) while BASIC showed five (Trade Search test, Trade Regulations Up, TRIN publications, Webinars, Newsletter)—different layouts, not a simple "more vs less" without comparing feature depth.
+
+Q: Do I get CDD browse and export on BASIC MANSA?
+EXPECTED ANSWER: Yes—Browse CDD Information and Export CDD Information appear in the BASIC–MANSA Package Features list.
+
+Q: Does Enterprise 22 TRADAR include country-level analytics?
+EXPECTED ANSWER: Yes—under Country Analytics: COUNTRY PRODUCT and COUNTRY SERVICES.
+
+Q: If I need tenders and freight on ATG CONNECT does BASIC cover both?
+EXPECTED ANSWER: Yes in the reference BASIC–ATG CONNECT modal: Tenders and Freight & logistics hub modules were both listed.
+
+Q: On ATG for corporates MANSA can I export investment data without browsing it first?
+EXPECTED ANSWER: The feature list includes both "Browse Investment Information" and "Export Investment Information" as separate entitlements in the reference table (actual workflow rules depend on product behavior).
+
+Q: What notification feature is named for ATG for corporates MANSA?
+EXPECTED ANSWER: "Receive CDD Profile Instant Notification on Publishing."
+
+Q: On Enterprise 22 MANSA is Unlimited users available?
+EXPECTED ANSWER: No in the reference screen—max users was 5 and the Unlimited checkbox was unchecked.
+
+Q: On BASIC MANSA is Unlimited users available?
+EXPECTED ANSWER: No—max 3 with Unlimited unchecked.
+
+Q: What does the plus two badge mean on CORPORATE SPONSOR Investment Capital Flows?
+EXPECTED ANSWER: Two additional investment-related features exist beyond Investment Provider and Investment Opportunities.
+
+Q: What does the plus one badge mean on CORPORATE SPONSOR Access to finance?
+EXPECTED ANSWER: One more finance feature beyond Access To Finance and Financing Opportunities.
+
+Q: Does Enterprise 22 TRADAR include untapped potential style market insight?
+EXPECTED ANSWER: Yes—under Product Analytics with UNTAPPED POTENTIAL (and PRODUCT AND SERVICE DATA).
+
+Q: Does BASIC TRADAR include product analytics?
+EXPECTED ANSWER: Yes—Trade Search test includes PRODUCT ANALYTICS among its tags.
+
+Q: Is Trade Regulations Up on BASIC the same wording as Regulations on Enterprise 22?
+EXPECTED ANSWER: Different module names; both include REGULATIONS and SEARCH REGULATIONS as visible tags in the reference screens.
+
+Q: How many named API features with numeric quotas appear on Enterprise 22 MANSA?
+EXPECTED ANSWER: Four rows, each at 10 requests.
+
+Q: Does Enterprise 22 ATG CONNECT include Post Tenders Request?
+EXPECTED ANSWER: Yes—under the Tenders module with Tenders Opportunities.
+
+Q: Does CORPORATE SPONSOR ATG CONNECT include Post Tenders Request?
+EXPECTED ANSWER: Yes—same tender pair as in other packages' Tenders module.
+
+Q: What is the first module row in the Enterprise 22 ATG CONNECT table?
+EXPECTED ANSWER: Investment Capital Flows (before Tenders) in the described capture.
+
+Q: Can I read African country profiles on BASIC TRADAR?
+EXPECTED ANSWER: Yes—under Complimentary access to 6 TRIN publications: AFRICAN COUNTRY PROFILES is listed among the tags.
+
+Q: Does BASIC TRADAR include Africa industry outlooks?
+EXPECTED ANSWER: Yes—AFRICA INDUSTRY OUTLOOKS appears under the TRIN publications module with +3 more.
+
+Q: What webinar benefit is spelled out for BASIC?
+EXPECTED ANSWER: Complimentary access to virtual webinars (plus one more feature in that module).
+
+Q: For hamza versus BASIC MANSA which allows more users?
+EXPECTED ANSWER: hamza MANSA allowed 8 users; BASIC MANSA allowed 3 in the reference configs—hamza higher in that comparison.
+
+Q: For free publication versus Enterprise 22 MANSA which has higher CDD download limit?
+EXPECTED ANSWER: free publication had 10; Enterprise 22 had 5—free publication higher (less strict cap) in that snapshot.
+
+Q: Does PACKE CASE MANSA TRADAR include company analytics only or other modules too?
+EXPECTED ANSWER: The capture referenced company analytics with many tags; other modules may exist on the full screen not visible in one crop.
+
+Q: I am choosing between Enterprise 22 and CORPORATE SPONSOR for ATG CONNECT which has Access to finance?
+EXPECTED ANSWER: CORPORATE SPONSOR's reference modal included an "Access to finance" module; Enterprise 22's ATG CONNECT modal showed only Investment Capital Flows and Tenders in the described capture.
+
+Q: I need Financing Opportunities which package ATG CONNECT screen listed it?
+EXPECTED ANSWER: CORPORATE SPONSOR–ATG CONNECT under Access to finance.
+
+Q: I need Freight Provider which packages show it on ATG CONNECT?
+EXPECTED ANSWER: CORPORATE SPONSOR and BASIC in the provided captures (Freight & logistics hub).
+
+Q: Does Enterprise 22 ATG CONNECT list Freight Provider?
+EXPECTED ANSWER: Not in the described Enterprise 22–ATG CONNECT modal, which only had Investment Capital Flows and Tenders.
+
+Q: What is the CDD view limit difference between Enterprise 22 MANSA and ATG for corporates MANSA?
+EXPECTED ANSWER: Enterprise 22 used 5; ATG for corporates used 10 in the reference configs.
+
+Q: Are API request numbers shown for ATG for corporates MANSA browse and export features?
+EXPECTED ANSWER: The reference table showed "-" (dash) for No of Requests on those rows, not numeric quotas like Enterprise 22's 10.
+
+Q: Does BASIC MANSA include export CDD?
+EXPECTED ANSWER: Yes—"Export CDD Information" is in the list.
+
+Q: Does BASIC MANSA include browse investment information?
+EXPECTED ANSWER: Yes—it is listed.
+
+Q: What is the exact label for exporting CDD on ATG for corporates MANSA?
+EXPECTED ANSWER: "Export CDD Information."
+
+Q: What is the exact label for exporting CDD on BASIC MANSA?
+EXPECTED ANSWER: "Export CDD Information."
+
+Q: How many TRADAR Package Features module rows were listed for Enterprise 22?
+EXPECTED ANSWER: Four modules in the reference table.
+
+Q: How many TRADAR Package Features module rows were listed for BASIC?
+EXPECTED ANSWER: Five modules in the reference table.
+
+Q: Is AFRICA INSIGHT the same as AFRICA INDUSTRY OUTLOOKS?
+EXPECTED ANSWER: No—they appeared as different feature tags: Enterprise 22 Publications used AFRICA INDUSTRY OUTLOOKS and AFRICA INSIGHT; BASIC used AFRICA INDUSTRY OUTLOOKS under TRIN publications with different companion tags.
+
+================================================================================
+PAGE: Add-ons Management (workspace / staging)
+================================================================================
+The following questions and answers refer only to the Add-ons Management page (breadcrumb Operations Management > Add-on Management, URL path …/workspace/addons-management on staging). Add-ons are listed in separate tabs—MANSA, TRADAR, ATG CONNECT, and ATG—and are not the same screen as package cards; prices and columns differ by tab.
+
+Q: From this point on use only the add-ons management catalog with tabs MANSA TRADAR ATG CONNECT and ATG to answer.
+EXPECTED ANSWER: Scope instruction—answers below refer to Operations Management > Add-ons Management (…/workspace/addons-management) with tabs MANSA, TRADAR, ATG CONNECT, and ATG.
+
+Q: Where is the add-on catalog in the workspace reference UI?
+EXPECTED ANSWER: Under Operations / Operation Management → Add-ons Management (staging path …/workspace/addons-management). Subscribers usually purchase through checkout or account flows, not this admin table.
+
+Q: How are add-ons grouped on the Add-ons Management page?
+EXPECTED ANSWER: Four tabs: MANSA, TRADAR, ATG CONNECT, and ATG.
+
+Q: What button appears for creating add-ons on the MANSA tab?
+EXPECTED ANSWER: A teal button labeled "Create Mansa Add-on" (admin only).
+
+Q: What button appears for creating add-ons on the TRADAR tab?
+EXPECTED ANSWER: "Create Tradar Add-on."
+
+Q: What button appears for creating add-ons on the ATG CONNECT tab?
+EXPECTED ANSWER: "Create Atg connect Add-on."
+
+Q: What button appears for creating add-ons on the ATG tab?
+EXPECTED ANSWER: "Create Atg Add-on."
+
+Q: Which columns does the MANSA add-ons table show?
+EXPECTED ANSWER: Name, NO. of Views, NO. of Downloads, Price, and Action (edit/delete).
+
+Q: List the MANSA add-on names from the staging table.
+EXPECTED ANSWER: Qui impedit velit f; TT add; test add; ADD on test Youness; MANSA CORPORATE.
+
+Q: How much does TT add cost on MANSA add-ons?
+EXPECTED ANSWER: 30 (same currency unit as shown in the grid—confirm in app).
+
+Q: How much does test add cost on MANSA add-ons?
+EXPECTED ANSWER: 20.
+
+Q: How much do ADD on test Youness and MANSA CORPORATE cost on MANSA add-ons?
+EXPECTED ANSWER: Both are priced at 10 in the reference table.
+
+Q: How much does Qui impedit velit f cost on the MANSA add-ons tab?
+EXPECTED ANSWER: 25.
+
+Q: What views and downloads limits for ADD on test Youness on MANSA?
+EXPECTED ANSWER: NO. of Views 100 and NO. of Downloads 100.
+
+Q: What views and downloads for MANSA CORPORATE on MANSA add-ons?
+EXPECTED ANSWER: 20 views and 20 downloads.
+
+Q: What views and downloads for TT add on MANSA add-ons?
+EXPECTED ANSWER: 10 views and 10 downloads.
+
+Q: What views and downloads for test add on MANSA add-ons?
+EXPECTED ANSWER: 3 views and 3 downloads.
+
+Q: Are views and downloads filled for Qui impedit velit f on MANSA add-ons?
+EXPECTED ANSWER: In the reference capture those cells appeared empty.
+
+Q: Which MANSA add-on has the highest price in the list?
+EXPECTED ANSWER: TT add at 30.
+
+Q: Which MANSA add-ons share the lowest price?
+EXPECTED ANSWER: ADD on test Youness and MANSA CORPORATE at 10 each.
+
+Q: What columns does the TRADAR add-ons table use?
+EXPECTED ANSWER: Name, Price, and Action (no views/downloads columns on that tab).
+
+Q: Name every TRADAR add-on in the reference list.
+EXPECTED ANSWER: last pyment bahdid; addontest v1; Dolorem eum tempora; Qui impedit velit f; Ipsum temporibus qu; Velit corrupti ipsa; Harum vel maxime rer; Publications; VIP TRADAR.
+
+Q: How much does the Publications TRADAR add-on cost?
+EXPECTED ANSWER: 1000.
+
+Q: How much does VIP TRADAR cost?
+EXPECTED ANSWER: 19.
+
+Q: How much does addontest v1 cost on TRADAR add-ons?
+EXPECTED ANSWER: 10.
+
+Q: What is the cheapest TRADAR add-on by price in the reference list?
+EXPECTED ANSWER: last pyment bahdid at 1 (label spelling as shown on screen).
+
+Q: Which TRADAR add-ons are priced above 500?
+EXPECTED ANSWER: Dolorem eum tempora (816), Ipsum temporibus qu (765), Harum vel maxime rer (803).
+
+Q: How much is Velit corrupti ipsa on TRADAR add-ons?
+EXPECTED ANSWER: 371.
+
+Q: How much is Qui impedit velit f on the TRADAR add-ons tab?
+EXPECTED ANSWER: 25.
+
+Q: What add-ons are on the ATG CONNECT tab and their prices?
+EXPECTED ANSWER: Qui impedit velit f — 25; ATG CONNECT — 10; ATG VIP — 10.
+
+Q: Which ATG CONNECT add-on is the most expensive in that list?
+EXPECTED ANSWER: Qui impedit velit f at 25.
+
+Q: What columns does the ATG add-ons tab show?
+EXPECTED ANSWER: Name, Price, License Count, and Action.
+
+Q: What ATG add-ons are listed with prices and license counts?
+EXPECTED ANSWER: Qui impedit velit — price $25, License Count 24; title GDVED 64646464 — price $20, License Count 10.
+
+Q: Which ATG add-on has more licenses in the reference table?
+EXPECTED ANSWER: Qui impedit velit with 24 licenses versus 10 for title GDVED 64646464.
+
+Q: Is the add-on named ATG CONNECT on the ATG CONNECT tab the same as the ATG CONNECT product in packages?
+EXPECTED ANSWER: In the catalog it is a purchasable add-on row on the ATG CONNECT tab (price 10 in the reference list); base packages still advertise ATG CONNECT as a pillar product—the AI should explain that add-ons extend or supplement and may differ by tenant.
+
+Q: Can I see MANSA view and download quotas on the TRADAR add-ons tab?
+EXPECTED ANSWER: No in the reference UI—only the MANSA tab showed NO. of Views and NO. of Downloads; TRADAR only had Name and Price.
+
+Q: How many MANSA add-ons were listed on page one in the capture?
+EXPECTED ANSWER: Five add-ons listed on page 1.
+
+Q: How many TRADAR add-ons were in the reference capture?
+EXPECTED ANSWER: Nine rows.
+
+Q: How many ATG CONNECT add-ons were in the reference capture?
+EXPECTED ANSWER: Three rows.
+
+Q: How many ATG tab add-ons were in the reference capture?
+EXPECTED ANSWER: Two rows.
+
+================================================================================
+QUESTIONS ONLY (copy to questions_smoke.txt or a dedicated smoke list)
+================================================================================
+What packages can I choose from on ATG?
+What three products come with a standard ATG package?
+How much does the hamza package cost?
+What is the price of the PACKE CASE MANSA package?
+How much does CORPORATE SPONSOR cost?
+Is there a free or zero-dollar package on ATG?
+Does SPECIAL PACKAGE cost anything?
+Why would one package card show two different prices?
+What prices appear near other cards when viewing ATG for corporates MANSA?
+What is the difference between a package and an add-on?
+Where can I see or change my subscription as a subscriber?
+Can I upgrade from BASIC to CORPORATE SPONSOR?
+What does the TEST package include?
+What add-ons or extra TRADAR modules does the TEST package include?
+Does the TEST package include African country profiles?
+What add-ons are on the free publication package TRADAR?
+What investment features does the free publication package include on ATG CONNECT?
+How many users can the hamza package support on MANSA?
+What are the CDD limits for hamza on MANSA?
+What are the MANSA limits for the free publication package?
+How many requests for Consume CDD Profile history changes APIs on the free publication package?
+Is the TEST package unlimited for team size on MANSA?
+What logistics features does the TEST package include on ATG CONNECT?
+What analytics does PACKE CASE MANSA include on TRADAR?
+What does PACKE CASE MANSA include on ATG CONNECT?
+Which packages show investment opportunities on ATG CONNECT?
+What is the CDD view limit for ATG for corporates on MANSA?
+What is the CDD download limit for ATG for corporates on MANSA?
+Is there a user cap for ATG for corporates MANSA?
+What MANSA features are listed for ATG for corporates in Package Features?
+Can I add more API features to ATG for corporates MANSA as a subscriber?
+How do admins save MANSA limit changes in the reference UI?
+What modules does CORPORATE SPONSOR include on ATG CONNECT?
+What tender features does CORPORATE SPONSOR offer on ATG CONNECT?
+What investment features does CORPORATE SPONSOR ATG CONNECT include?
+What does Access to finance include for CORPORATE SPONSOR?
+What freight features does CORPORATE SPONSOR ATG CONNECT include?
+What TRADAR modules does Enterprise 22 include?
+What features are under Product Analytics for Enterprise 22 TRADAR?
+What features are under Regulations for Enterprise 22 TRADAR?
+What features are under Country Analytics for Enterprise 22?
+What publications features does Enterprise 22 TRADAR include?
+Which module contains Africa Insight on Enterprise 22?
+Is Search Regulations included in Enterprise 22?
+What is the max number of users for Enterprise 22 MANSA?
+What are the CDD view and download limits for Enterprise 22 MANSA?
+How many API requests for Consume Search Publications APIs on Enterprise 22 MANSA?
+How many requests for Consume CDD Profile APIs on Enterprise 22 MANSA?
+How many requests for Consume CDD Profile history changes APIs on Enterprise 22 MANSA?
+How many requests for Consume Contributor lookup APIs on Enterprise 22 MANSA?
+Does Enterprise 22 MANSA use the same request quota for all four API features shown?
+What ATG CONNECT modules does Enterprise 22 include?
+What investment tags appear on Enterprise 22 ATG CONNECT?
+What tender features does Enterprise 22 ATG CONNECT include besides Tenders Opportunities and Post Tenders Request?
+Does the BASIC TRADAR package give full access to everything?
+What is listed in the Data section for BASIC TRADAR?
+What modules are in BASIC TRADAR Package Features?
+What features are under Trade Search test for BASIC?
+What features are under Trade Regulations Up on BASIC TRADAR?
+What publications come with BASIC TRADAR complimentary TRIN access?
+Does BASIC TRADAR include webinars?
+Does BASIC include a newsletter?
+How many extra features are behind plus fourteen on BASIC Trade Search test?
+What is the CDD view limit for BASIC MANSA?
+What is the CDD download limit for BASIC MANSA?
+How many users does BASIC MANSA allow?
+List the MANSA package features shown for BASIC.
+What modules does BASIC ATG CONNECT include?
+What tender features does BASIC ATG CONNECT show?
+What freight features does BASIC ATG CONNECT include?
+Who allows more MANSA users BASIC or Enterprise 22?
+Who has stricter CDD view limits on MANSA Enterprise 22 or BASIC?
+Does ATG for corporates or BASIC have unlimited MANSA users?
+Which package shows explicit API request counts of ten on MANSA?
+Does CORPORATE SPONSOR ATG CONNECT include tenders and finance?
+Does Enterprise 22 ATG CONNECT include both investments and tenders?
+Is Country Analytics on Enterprise 22 the same as Trade Search test on BASIC?
+What is included in ATG for corporates on TRADAR?
+As a buyer what do I get on MANSA with ATG for corporates?
+Does BASIC ATG CONNECT list the Tenders module more than once?
+Is Enterprise 22 TRADAR simpler than BASIC TRADAR in module count?
+Do I get CDD browse and export on BASIC MANSA?
+Does Enterprise 22 TRADAR include country-level analytics?
+If I need tenders and freight on ATG CONNECT does BASIC cover both?
+On ATG for corporates MANSA can I export investment data without browsing it first?
+What notification feature is named for ATG for corporates MANSA?
+On Enterprise 22 MANSA is Unlimited users available?
+On BASIC MANSA is Unlimited users available?
+What does the plus two badge mean on CORPORATE SPONSOR Investment Capital Flows?
+What does the plus one badge mean on CORPORATE SPONSOR Access to finance?
+Does Enterprise 22 TRADAR include untapped potential style market insight?
+Does BASIC TRADAR include product analytics?
+Is Trade Regulations Up on BASIC the same wording as Regulations on Enterprise 22?
+How many named API features with numeric quotas appear on Enterprise 22 MANSA?
+Does Enterprise 22 ATG CONNECT include Post Tenders Request?
+Does CORPORATE SPONSOR ATG CONNECT include Post Tenders Request?
+What is the first module row in the Enterprise 22 ATG CONNECT table?
+Can I read African country profiles on BASIC TRADAR?
+Does BASIC TRADAR include Africa industry outlooks?
+What webinar benefit is spelled out for BASIC?
+For hamza versus BASIC MANSA which allows more users?
+For free publication versus Enterprise 22 MANSA which has higher CDD download limit?
+Does PACKE CASE MANSA TRADAR include company analytics only or other modules too?
+I am choosing between Enterprise 22 and CORPORATE SPONSOR for ATG CONNECT which has Access to finance?
+I need Financing Opportunities which package ATG CONNECT screen listed it?
+I need Freight Provider which packages show it on ATG CONNECT?
+Does Enterprise 22 ATG CONNECT list Freight Provider?
+What is the CDD view limit difference between Enterprise 22 MANSA and ATG for corporates MANSA?
+Are API request numbers shown for ATG for corporates MANSA browse and export features?
+Does BASIC MANSA include export CDD?
+Does BASIC MANSA include browse investment information?
+What is the exact label for exporting CDD on ATG for corporates MANSA?
+What is the exact label for exporting CDD on BASIC MANSA?
+How many TRADAR Package Features module rows were listed for Enterprise 22?
+How many TRADAR Package Features module rows were listed for BASIC?
+Is AFRICA INSIGHT the same as AFRICA INDUSTRY OUTLOOKS?
+From this point on use only the add-ons management catalog with tabs MANSA TRADAR ATG CONNECT and ATG to answer.
+Where is the add-on catalog in the workspace reference UI?
+How are add-ons grouped on the Add-ons Management page?
+What button appears for creating add-ons on the MANSA tab?
+What button appears for creating add-ons on the TRADAR tab?
+What button appears for creating add-ons on the ATG CONNECT tab?
+What button appears for creating add-ons on the ATG tab?
+Which columns does the MANSA add-ons table show?
+List the MANSA add-on names from the staging table.
+How much does TT add cost on MANSA add-ons?
+How much does test add cost on MANSA add-ons?
+How much do ADD on test Youness and MANSA CORPORATE cost on MANSA add-ons?
+How much does Qui impedit velit f cost on the MANSA add-ons tab?
+What views and downloads limits for ADD on test Youness on MANSA?
+What views and downloads for MANSA CORPORATE on MANSA add-ons?
+What views and downloads for TT add on MANSA add-ons?
+What views and downloads for test add on MANSA add-ons?
+Are views and downloads filled for Qui impedit velit f on MANSA add-ons?
+Which MANSA add-on has the highest price in the list?
+Which MANSA add-ons share the lowest price?
+What columns does the TRADAR add-ons table use?
+Name every TRADAR add-on in the reference list.
+How much does the Publications TRADAR add-on cost?
+How much does VIP TRADAR cost?
+How much does addontest v1 cost on TRADAR add-ons?
+What is the cheapest TRADAR add-on by price in the reference list?
+Which TRADAR add-ons are priced above 500?
+How much is Velit corrupti ipsa on TRADAR add-ons?
+How much is Qui impedit velit f on the TRADAR add-ons tab?
+What add-ons are on the ATG CONNECT tab and their prices?
+Which ATG CONNECT add-on is the most expensive in that list?
+What columns does the ATG add-ons tab show?
+What ATG add-ons are listed with prices and license counts?
+Which ATG add-on has more licenses in the reference table?
+Is the add-on named ATG CONNECT on the ATG CONNECT tab the same as the ATG CONNECT product in packages?
+Can I see MANSA view and download quotas on the TRADAR add-ons tab?
+How many MANSA add-ons were listed on page one in the capture?
+How many TRADAR add-ons were in the reference capture?
+How many ATG CONNECT add-ons were in the reference capture?
+How many ATG tab add-ons were in the reference capture?
+

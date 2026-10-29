@@ -1,0 +1,17 @@
+{
+  "name": "atg-playwright",
+  "private": true,
+  "description": "Playwright migration of the Robot Framework ATG suites.",
+  "scripts": {
+    "test": "playwright test",
+    "test:api": "playwright test tests/atg-v1/api tests/atg-v2/api",
+    "test:ui": "playwright test tests/atg-v1/ui tests/atg-v1/operation tests/atg-v2/ui",
+    "test:v2:roles": "playwright test tests/atg-v2/ui/roles-permissions.spec.ts",
+    "test:list": "playwright test --list"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}

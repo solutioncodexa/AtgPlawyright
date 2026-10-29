@@ -1,0 +1,7183 @@
+[
+  {
+    "email": "avb@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testsubscriptionm@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "substest6@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testing1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscriberrr@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "TRADAR_USER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "atgsubbtest1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "yusuf11@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "atgconsub1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscribr_2208@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testsuboffline@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "ayman.m@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subsc2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subs13atg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testchadi@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "changeback3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "Newsubmenu@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "atg-user-001@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testeer222@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testothman@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "suscriberrtest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "yassinemanadif@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "atgsub12@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testeer223@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "subs9atg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscribertest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "sbscrrts@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testeer12345@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "yassinendf@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "atgsub11@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "ttrou-atg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testeer22@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "othtest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "restorn@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "tester113@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "thesubscrbtest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "atgsub8@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "sbscrbrts@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "testothman2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testssomansa@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testeer123@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "nesubtest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "atg-khalid@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subs7atg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "ttr-doushed@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "newsubtest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "cnt1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "yusuf1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "atgsub16@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subtest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscribertest1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "substest4@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "contributortest1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "atgsub7@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "Newsubttest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "yusuf33@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "sbscrbrtst@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "substest2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testere999@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "ubstest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "sbtst@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testeer133@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "subscribertested@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "salahlghazi12@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testfreepayment@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "atgConsub@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscrib@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscriber_737373@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "aa@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "check_comp_us@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "sweetie@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "Wd11@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "chadi_chadi_peaqocke@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subtest1708@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test1809@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testrref@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_CONNECT_USER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "wd86@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "cs4@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "tradaraccountest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "alt.x4-1ofjp0tn@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "newuserhamza1234567@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "walid_test_225@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "epc_tests@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_PROVIDER",
+      "ATG_CONNECT_USER",
+      "ATG_USER",
+      "ATG_CONNECT_PROVIDER",
+      "ATG_CONNECT_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testuser589@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "reda_leva@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "atreix@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "subscription_sub_02@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "Yuness@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "subs_atgc_1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_FI_AGENT",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_FI_AGENT"
+    ]
+  },
+  {
+    "email": "testj_uss@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "abcdoi98@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "emirate-22@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "yop@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "dahmis@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "dd-mansa@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "ayman-farik@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "teeest1809@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "fsfsfjkskjf@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "vfisub1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "HJAKJAJAAJ111@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "ger_iii_he@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "dahmiss@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testMLKJHGFDS@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "hey_ieu@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "comp_us_n3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "test-user-2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "sub3test@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hassan_hassan_t001@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "walide_walide_test_v123@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_CONNECT_USER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "testloading3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "tradarmplo@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "yousef_sub_001_b2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "mbpnsfhs@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "red_check_cop@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "paziwu@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "cs3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "tesyass@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "satg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "abcd2009@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "kljhdgdgdg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "investment_subscriber@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "buv897@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "hassan_test_subscription@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "comp_us_n6@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testhddgdgdgdgdg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscriber_01@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test.offline@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "th87@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "ob12@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "contributerb2409@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "subscriberm@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "yk-subscriber@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "kaqypeji@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "ouissal34@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "hassan_testgdtdk@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "agent0310test1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_AGENT",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "youssef-contributer@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "ayman.am@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "ouissalt@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "contributer-932aq@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_PROVIDER",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_PROVIDER",
+      "ATG_USER",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "usertest01@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "test_fi_corp@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "contributer_70120@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_PROVIDER",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_PROVIDER",
+      "ATG_USER",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "med@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "rhadm@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_INTERNAL",
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "ssdf_sdf@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_FI_AGENT",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_FI_AGENT"
+    ]
+  },
+  {
+    "email": "hgfd@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_AGENT",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_AGENT"
+    ]
+  },
+  {
+    "email": "ctrctrdata@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test_eeye@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test_uey_ad@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_ADMIN",
+      "ATG_SUB_ADMIN",
+      "AUTHORITY_MANSA_ADMIN",
+      "ATG_CONNECT_ADMIN",
+      "ATG_CONNECT_USER",
+      "TRADAR_USER",
+      "TRADAR_ADMIN",
+      "ATG_SUB_ADMIN",
+      "AUTHORITY_MANSA_ADMIN",
+      "ATG_CONNECT_ADMIN",
+      "ATG_CONNECT_USER",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "memberb@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER_MEMBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER_MEMBER"
+    ]
+  },
+  {
+    "email": "bassem.hanna@elsewedy.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "jonvaliagas@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "ghfg12f@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "subscreen124@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "subscreen123@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "user_test_comp@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "agotze@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "test.registration@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "ishaqagent@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "hassan_hassan_info_0021@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscreen23@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscriber-screening3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "subscriber-screening5@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "gylyweki@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "rukefera@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "red_yyeh@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "yopmailemail@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATEX_AGENT",
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT"
+    ]
+  },
+  {
+    "email": "testadmin666@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUB_ADMIN",
+      "AUTHORITY_MANSA_ADMIN",
+      "ATG_SUB_ADMIN",
+      "AUTHORITY_MANSA_ADMIN"
+    ]
+  },
+  {
+    "email": "adminhamza@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUB_ADMIN",
+      "ATG_CONNECT_USER",
+      "TRADAR_USER",
+      "ATG_CONNECT_ADMIN",
+      "ATG_SUB_ADMIN",
+      "ATG_CONNECT_USER",
+      "TRADAR_USER",
+      "ATG_CONNECT_ADMIN"
+    ]
+  },
+  {
+    "email": "atg-test-test@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUB_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUB_ADMIN",
+      "TRADAR_USER",
+      "ATG_CONNECT_USER",
+      "TRADAR_SUB_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUB_ADMIN",
+      "TRADAR_USER",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "testsync0091@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "testsync001@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hamza@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "contributer1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_PROVIDER"
+    ]
+  },
+  {
+    "email": "fitestagent@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_FI_AGENT",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_FI_AGENT",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "uibugfixtest1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "bizness@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "tttsets9888@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testeer2234@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "us10@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "admin-nbr-ys@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_INTERNAL",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_INTERNAL"
+    ]
+  },
+  {
+    "email": "tipbiz@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "yelhor91@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "Testforsubscriber@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "atg-user-tradar@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "yousef_yousef@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "oussama-sub-screening@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "b001@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "sbscbrtsss@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "yasser_nadif98@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "Agentstestac@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "youness@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "achraf@tipce.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "newsubtestt@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "manal2060@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "youseff_youseff@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testsync11@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "test2371@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_CONNECT_AGENT",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test00992@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "agent_mansa_00120@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test237@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "testtestttest2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "dcsubscriberd@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "merctr3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "test257@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_VERIFIER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "dcsubscriberf@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "agent-521250@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test2572@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_PROVIDER",
+      "ATG_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "agent-85652321200@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test00991@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "baroudi.reda7852@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test00993@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test00995@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test00994@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "mor_ic_646@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "test_atx_mig20@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "agent_tacos123@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "amine.mo2025@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER",
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "baroudi.seller01@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test_atx_mig21@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "susbcriber-787323@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hucuvuruhi@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "subscriber-23452@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subscriber-562@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "seller7890@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATEX_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "buyer-9889@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "admin.atex@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "ref6789@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "atex_buyer@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATEX_BUYER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "mjb789678@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "jmd66878@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "admin1236879880@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "wsr231@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_AGENT",
+      "TRADAR_AGENT",
+      "ATG_AGENT",
+      "ATEX_AGENT",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "o@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "test78900@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_AGENT",
+      "TRADAR_AGENT",
+      "ATG_AGENT",
+      "ATEX_AGENT",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "unwankwo@afreximbank.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ADMIN"
+    ]
+  },
+  {
+    "email": "jlk6778@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "ATEX_AGENT",
+      "TRADAR_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_CONNECT_AGENT"
+    ]
+  },
+  {
+    "email": "dldwewep@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATEX_AGENT"
+    ]
+  },
+  {
+    "email": "atg67909@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_AGENT",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "atexagenct8789@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "ATEX_AGENT",
+      "TRADAR_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_CONNECT_AGENT"
+    ]
+  },
+  {
+    "email": "syncuser@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "ATEX_AGENT",
+      "TRADAR_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_CONNECT_AGENT"
+    ]
+  },
+  {
+    "email": "ag_payde@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_AGENT",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "testyounes123@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONTRIBUTOR",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "oth67790@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "amma678@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_AGENT",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "vahrls.ylqmtng@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "oth66787@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATEX_AGENT"
+    ]
+  },
+  {
+    "email": "testhamza1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_PROVIDER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "tmhungu@afreximbank.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ADMIN"
+    ]
+  },
+  {
+    "email": "ag_agent@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATEX_AGENT"
+    ]
+  },
+  {
+    "email": "mermeragent@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "gmoyo@afreximbank.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "infosnascocom@ypomail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "olivieramanygmailcom@ypomail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "slim-checker@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_INTERNAL"
+    ]
+  },
+  {
+    "email": "merchecker11@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_INTERNAL",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "slim-agent@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "cgnamitche@afreximbank.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_ADMIN"
+    ]
+  },
+  {
+    "email": "subsyn@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testhamza10@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "onboardedadmin0731@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_CONNECT_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "agentsyn@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "aecont@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "vtbbank1408@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "asmaemounafi@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "controbuter6754672345@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "c123456@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_INTERNAL"
+    ]
+  },
+  {
+    "email": "agentmeriem1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "agent_testing_p@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_CONNECT_AGENT",
+      "TRADAR_AGENT",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "aeagent@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_AGENT",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "companybank1408@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "test_che_ggg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "contributoradmin1908@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "abagent@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_CONNECT_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "accueilmin-toulouseoccitaniefr@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATG_USER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "moh-chercker@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_INTERNAL",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testhamza8@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "ag_ad@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_AGENT",
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "TRADAR_AGENT"
+    ]
+  },
+  {
+    "email": "Test76@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_AGENT",
+      "ATG_AGENT",
+      "TRADAR_AGENT",
+      "ATEX_AGENT"
+    ]
+  },
+  {
+    "email": "maragent3107@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "demochecker1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_INTERNAL"
+    ]
+  },
+  {
+    "email": "hamzatest456@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "testmansa1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATEX_SELLER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "c12345@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_INTERNAL"
+    ]
+  },
+  {
+    "email": "a1234@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "mervermor1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "mansa456789@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "amsams-cicom@ypomail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testmansanum@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "samieuahidi2mdlcom@ypomail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "waldemarzubkobestmilkpl45@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "fsensuwa@afreximbank.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ADMIN",
+      "ATEX_ADMIN"
+    ]
+  },
+  {
+    "email": "contributorasmae@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "yousef_yousef_dd_001@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_PROVIDER"
+    ]
+  },
+  {
+    "email": "asmaestg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "contributorasmae2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "testagent123456@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "atg678@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONTRIBUTOR",
+      "ATG_CONNECT_PROVIDER",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "owinocontributor@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "TRADAR_USER",
+      "ATG_SUB_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "ATG_CONNECT_ADMIN",
+      "ATEX_SELLER",
+      "TRADAR_ADMIN",
+      "AUTHORITY_MANSA_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "freightsubscribere@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "salah66@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_USER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "admin_tip@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "ATG_SUB_ADMIN",
+      "ATEX_BUYER",
+      "TRADAR_ADMIN",
+      "ATG_USER",
+      "ATG_CONNECT_PROVIDER",
+      "ATEX_ADMIN",
+      "TRADAR_USER",
+      "ATG_CONNECT_SUB_ADMIN",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_CONNECT_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "aymane_aymane@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "ATG_CONNECT_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testu_u@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "testu_u44@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "testu_u4455@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "testu_u4412@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "testu_u77744@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "piqemyb@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATEX_BUYER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "testhamza8811@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testhamza8178@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testoverlap02@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "manal_dev@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "def_dgey@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_PROVIDER",
+      "ATG_USER",
+      "ATG_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "iness3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "angola@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "hamzatest88789@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "emaildija@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "agencydora@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "TRADAR_AGENT",
+      "ATG_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "ben_coffe@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "sun@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "cont2291@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_CONTRIBUTOR",
+      "ATG_USER",
+      "ATG_CONNECT_PROVIDER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "owinofi@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "agent229@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_INTERNAL"
+    ]
+  },
+  {
+    "email": "buyer_company_782@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "hamza09055@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONNECT_AGENT"
+    ]
+  },
+  {
+    "email": "morocco@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "ayman.7636@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "a12345@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "dandadan@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "tala_b@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "goop@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "nouah_bn@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "foji@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "baxo@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "xukes@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "lekupys@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "dijadoja@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "bydaz@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "fatsaf2002@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "connect@platinumgrpservices.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "ahmed_12@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "socialmedia@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "arisu@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_AGENT",
+      "ATEX_AGENT"
+    ]
+  },
+  {
+    "email": "vijohedug@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_AGENT",
+      "ATEX_AGENT"
+    ]
+  },
+  {
+    "email": "mibugy@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "xaripikeme@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_AGENT",
+      "ATEX_AGENT"
+    ]
+  },
+  {
+    "email": "testEmailIssue@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "wd-agent@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "manalmanal@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "viva@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "kanahijija@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "galaxytaba9@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "yusuf_11@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "ATEX_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_AGENT"
+    ]
+  },
+  {
+    "email": "opacle@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "ayman.fr023@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "ATEX_AGENT",
+      "ATG_CONNECT_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_AGENT"
+    ]
+  },
+  {
+    "email": "ctrmerdemoscre1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test-conter56@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATEX_BUYER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "emailbug2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "emailbugg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "ATG_CONNECT_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "TRADAR_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "test.test@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "bahamabreezefactory@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont910@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "ATEX_SELLER",
+      "ATG_CONTRIBUTOR",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "attxssbsbs@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "admin@goldbitegh.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "emailbug3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "ob75@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "sensuwafahadi@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "atg-test03@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "mari_agent_tier@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "aml-contributor-check2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "trulydija@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_AGENT",
+      "TRADAR_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "globaleUAT@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "production@milimani.rw",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "dijamabrouk@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_AGENT",
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "khadijamabrouk@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "contributor-agent-v2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "bonganirunya@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "rt_mar@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "userdraft@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "test2211@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_VERIFIER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "rafinity002@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_CONNECT_AGENT",
+      "TRADAR_AGENT",
+      "ATEX_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_USER",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "clienttesta@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "walid.test67@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "ayman.agent37@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATEX_AGENT",
+      "ATG_CONNECT_AGENT",
+      "TRADAR_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_AGENT",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "atgtest-subscriber@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATEX_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_BUYER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testb2b02@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "rrrda@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_INTERNAL",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "tedre_geget@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_INTERNAL",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "yusuf-91@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "TRADAR_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "emailbug@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATEX_BUYER",
+      "ATG_SUBSCRIBER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "subcomp187@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "atgtest-seller@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATEX_SELLER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "owinotest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_SUB_ADMIN"
+    ]
+  },
+  {
+    "email": "wana_ail@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "ger_boulon@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "hillscoffeebrewery@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "testhamza05112@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONNECT_PROVIDER"
+    ]
+  },
+  {
+    "email": "testhamza0511@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "julia.migot@karacarepharmacy.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test1.b2b@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "test2.b2b@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "dojasubscriber02@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "sub1011@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "7788f513-ac6a-4c14-82ae-0066b7e1172b@mailslurp.biz",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "zorosubscriber@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testingneww@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont10111@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "ATG_CONTRIBUTOR",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "submatch1011@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "company1011@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "rixequpuli@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hizbullah@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "fataco@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "qasoli@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "registration1762850638541@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "registration1762850247622@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "registration1762850100971@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "registration1762850948468@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "registration1762850740191@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "registration1762849735301@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "match1111@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "registration1762850479122@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "registration1762856516808@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hizbullah1111@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "registration1762864265551@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "kenneth@berrycom.co.ke",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test-subsc-scren@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "argo_economy@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "inivit@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "registration1763039135508@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test_dge_sub@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "mumuniamina23@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "mceliteexp@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "eucebiaingaso@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "hamidsadio@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_AGENT",
+      "ATG_CONNECT_AGENT"
+    ]
+  },
+  {
+    "email": "tst_comp_mem3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "ghfhgfhgfhgfgh555@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "registration1763064454957@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "nugik.76@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "email_deny@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "abcdefgh123456789@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "pandora@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "xawehohuf@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "youssef.8732@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "caroline@fae.com.ng",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "atg-test04@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "gleif2111@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GLEIF_ISSUANCE",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "test_dddge@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "business1764053992410@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "business1764057242436@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testtt004@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "asmaetest005@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "asmaetest25111@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "asmaetest25112@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "jauddanoibepoi-4794@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "business1764150944151@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "business1764151229963@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "business1764151098461@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "gleiftest3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "gleiftest2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_GLEIF_ISSUANCE",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "zebessauyeidoi-5014@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "gleif2611@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_GLEIF_ISSUANCE",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "invitesub1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "transfer2711@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_GLEIF_TRANSFER_IN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "fillufipputu-1057@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "naouarmn0012@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER_MEMBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "test_dget_hdeu@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "ATG_SUBSCRIBER_MEMBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "check_djjjjhey@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "naouarmn0013@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER_MEMBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "chenahd@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "daniel.ofori@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_USER",
+      "ATG_USER",
+      "ATG_CONTRIBUTOR",
+      "ATG_CONNECT_PROVIDER"
+    ]
+  },
+  {
+    "email": "svsdfvg85@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "SubscriberFlow@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test_det@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "transfer1121@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_GLEIF_TRANSFER_IN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "jacob.mensah@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "jusarumahy@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "regu@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "gleif112@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_GLEIF_ISSUANCE",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "gleif312@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_GLEIF_TRANSFER_IN"
+    ]
+  },
+  {
+    "email": "ched_def@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "test-atg1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test_inv_sub_mm@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "TRADAR_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER_MEMBER"
+    ]
+  },
+  {
+    "email": "test_dea_subm@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "TRADAR_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER_MEMBER"
+    ]
+  },
+  {
+    "email": "test-mansa1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "toganulaf@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "test-mansa2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "lohobut@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "ATG_AGENT",
+      "TRADAR_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_CONNECT_AGENT",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "naouarmn017@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER_MEMBER",
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER_MEMBER"
+    ]
+  },
+  {
+    "email": "owinotext@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test-mansa3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "mwatheka@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "invitesub0006@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "mansaverifier@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_VERIFIER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "mansaagent1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "eljadidacompany@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "naouarmn020@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "mansacontributor@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "mplokiuju@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "agent1012@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "invitesub0007@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "agent1212@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "xakelokoqu@mailinator.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "ffqfqfqf@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "contributor1012@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "agent12121@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "contributor1212@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "contributor12121@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "testest002@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont1212@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "agent12123@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "contributor12122@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "agt1212@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "testest005@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "registration1765886890088@yce2e6tm.mailosaur.net",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "meriemwowagent1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "mansaagenttester@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "asmaeverifier@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test2212@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "meriemwowagent2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "bbvbvghalmedaa@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "amadrabro@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "zaray@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "meriemwowagent3@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "yousef-22122202202@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "rytifigypi@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont1225@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATEX_SELLER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont2612@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "edijaravani@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "hamza0101@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "pyvubehoh@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "oldsub003@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test3112@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "epcvvs@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test-contributor-2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont2126@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "coxuzun@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "asmaecontributor51@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "ATG_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "user6845@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "agent2126@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont51@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont511@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont512@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test-contributor-12@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "gikaqafumy@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "asmaemounafi51@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "asmaecontributor91@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "cont71@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "lyndanothando@gmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "contributor91@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "user-test123@yopmail.comdd",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "usdsdser-test123@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "xsdsdizitu@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "vikaqy.98465@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "Wdeddddmo1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "ux@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_AGENT",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "contributorasmae513@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_PROVIDER",
+      "ATG_USER",
+      "ATG_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "agentasmae161@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "reggie-test-atg@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_VERIFIER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "mouh-contributor-01@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_CONNECT_PROVIDER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "asmaeagent1611@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "mouh-agent-01@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_CONNECT_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "sofia.martinez.qa@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "pahidehobi@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "asmaecontrubutor211@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "adadadadad@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "asmaeagent211@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test6151@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "asmaeagent85@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "mouhsubs0101@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "salah992@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "hamzaziko@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "salami@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "bopuruno@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "test163@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testhamza7556@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hamza1712@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_CONNECT_USER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_AGENT",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_CONNECT_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "hamza556688@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "younes_ad@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "test8673b2b@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "asmaecont74@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "sss555@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "123contributore@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "testaddons@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "gleifusertest195@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_GLEIF_ISSUANCE",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "hamza41692@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hamza66466@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hassan-5521200210@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "asmaeagent148@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "agentasmae74@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "abchecker@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "AUTHORITY_MANSA_INTERNAL",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "cont74@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "hamza2701@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "pyxexezyx@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "testb2b01@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "hamza1003@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "kamal.saadi1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "asmaeconttest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "tmatavo@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER_MEMBER",
+      "AUTHORITY_MANSA_INTERNAL",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "hamza10031@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT"
+    ]
+  },
+  {
+    "email": "naouarsub99@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_SUBSCRIBER"
+    ]
+  },
+  {
+    "email": "docs.escrow@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "molsjsjsshshhs@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_CONNECT_PROVIDER"
+    ]
+  },
+  {
+    "email": "hamza27032@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_PROVIDER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "gdgdgdg141414@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_USER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST",
+      "ATG_CONNECT_PROVIDER"
+    ]
+  },
+  {
+    "email": "ccdd@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "subscription-22026-10@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "contributor19test03@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "mansa_cont@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "test123321@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_VERIFIER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "mansa_cont2@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "xlm656@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "submertd1@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hamza21043@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "TRADAR_SUBSCRIBER",
+      "TRADAR_USER"
+    ]
+  },
+  {
+    "email": "cocisa.agent@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_AGENT",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "hamzaasd@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "sadobaly@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_FI_AGENT",
+      "TRADAR_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "ft@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER"
+    ]
+  },
+  {
+    "email": "mouh-contributor-02@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_PROVIDER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATEX_BUYER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_CONNECT_USER"
+    ]
+  },
+  {
+    "email": "salah-5521200@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cont751@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "agent-slimani@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "hamza0905@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "hamza83028@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hamza90357@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "test.addon@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "wdeudjui@afreximbank.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_SUB_ADMIN",
+      "TRADAR_USER",
+      "ATG_CONNECT_USER",
+      "ATG_CONNECT_ADMIN",
+      "TRADAR_ADMIN",
+      "AUTHORITY_MANSA_ADMIN"
+    ]
+  },
+  {
+    "email": "hellotest01@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "hassan-5855225634@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "ximytel@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_CONNECT_USER",
+      "TRADAR_USER",
+      "ATG_ENTITY_ADMIN",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "AUTHORITY_MANSA_GUEST"
+    ]
+  },
+  {
+    "email": "belo@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "transfer16@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_GLEIF_TRANSFER_IN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "cyle.37@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_SELLER"
+    ]
+  },
+  {
+    "email": "jykurasona@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "huce@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATEX_BUYER",
+      "ATG_ENTITY_ADMIN",
+      "ATEX_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "hamza8975@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "hamza9845@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "verifier36@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR"
+    ]
+  },
+  {
+    "email": "verifier361@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_VERIFIER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "mouhcinetest@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_SUBSCRIBER_MEMBER",
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "applei@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_GLEIF_ISSUANCE"
+    ]
+  },
+  {
+    "email": "gleifuser63@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_GLEIF_ISSUANCE",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "\u2060red_tt_iss@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": null
+  },
+  {
+    "email": "glefuser86@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "AUTHORITY_MANSA_GLEIF_ISSUANCE",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "daniel.okoro.agro@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "ATG_CONNECT_AGENT",
+      "ATEX_AGENT",
+      "TRADAR_AGENT",
+      "AUTHORITY_MANSA_AGENT",
+      "ATEX_ENTITY_ADMIN",
+      "ATG_AGENT"
+    ]
+  },
+  {
+    "email": "merctre26@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "testingnew@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_GUEST",
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "qapa@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_USER"
+    ]
+  },
+  {
+    "email": "agentmer77@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_AGENT",
+      "ATG_ENTITY_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "vermer66@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "ATG_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_VERIFIER",
+      "ATG_USER",
+      "AUTHORITY_MANSA_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "test001contributor@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "AUTHORITY_MANSA_ENTITY_ADMIN",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_USER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "lol@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_SUBSCRIBER",
+      "ATG_USER",
+      "ATG_CONNECT_SUBSCRIBER",
+      "TRADAR_USER",
+      "AUTHORITY_MANSA_SUBSCRIBER",
+      "ATG_SUBSCRIBER",
+      "ATG_ENTITY_ADMIN"
+    ]
+  },
+  {
+    "email": "shadowshadowadmin@yopmail.com",
+    "account_plan": 0,
+    "subscriber_subscription_id": null,
+    "array_agg": [
+      "TRADAR_USER",
+      "ATG_CONNECT_ADMIN",
+      "AUTHORITY_MANSA_ADMIN",
+      "ATG_USER",
+      "AUTHORITY_MANSA_CONTRIBUTOR",
+      "ATG_CONNECT_USER",
+      "TRADAR_ADMIN",
+      "ATEX_ADMIN",
+      "ATG_ADMIN"
+    ]
+  }
+]
